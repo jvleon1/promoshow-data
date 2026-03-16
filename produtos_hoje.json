@@ -1,11 +1,13 @@
-{
-  "productNameClean": "Lavadora Alta Pressão Lava Jato Portátil Recarregável Com Maleta...",
-  "priceDiscountRate": 73,
-  "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-madv8osf4f7dc7",
-  "offerLink": "https://s.shopee.com.br/6AgKmNvnRQ",
-  "ratingStar": 4.7,
-  "sales": 585,
-  "price": 0,
-  "nicho": "Ferramentas",
-  "timestamp": 1773675708
-}
+[
+  {
+    "productNameClean": "Lavadora Alta Pressão Lava Jato Portátil Recarregável Com Maleta...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-madv8osf4f7dc7",
+    "ratingStar": 4.7,
+    "priceDiscountRate": 73,
+    "price": 0,
+    "sales": 585,
+    "offerLink": "https://s.shopee.com.br/6AgKmNvnRQ",
+    "nicho": "Ferramentas",
+    "timestamp": 1773675709
+  }
+]
