@@ -636,5 +636,27 @@
     "offerLink": "https://s.shopee.com.br/3qIjNCUic0",
     "nicho": "Casa",
     "timestamp": 1774720815
+  },
+  {
+    "productNameClean": "Mesa de Cabeceira Ibiza Pequena e Elegante Estilo Minimalista",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwg-mdd8k3523cw0db",
+    "ratingStar": "4.8",
+    "priceDiscountRate": 42,
+    "price": "28.9",
+    "sales": 2389,
+    "offerLink": "https://s.shopee.com.br/4AvZmE0w05",
+    "nicho": "Casa",
+    "timestamp": 1774721175
+  },
+  {
+    "productNameClean": "Máquina de Lavar Twin Tub Praxis 10kg 2 em 1...",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824hf-mfobvevqv4soc6",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 25,
+    "price": 0,
+    "sales": 370,
+    "offerLink": "https://s.shopee.com.br/5L7X9zjr2O",
+    "nicho": "Casa",
+    "timestamp": 1774720846
   }
 ]
