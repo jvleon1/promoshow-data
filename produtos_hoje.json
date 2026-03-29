@@ -504,5 +504,27 @@
     "offerLink": "https://s.shopee.com.br/5q3pHecYTy",
     "nicho": "Cozinha",
     "timestamp": 1774803622
+  },
+  {
+    "productNameClean": "1/2Rack de pratos em camadas sobre a pia Rack...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mggb8luuhq0w92",
+    "ratingStar": "4.8",
+    "priceDiscountRate": 81,
+    "price": "93.99",
+    "sales": 847,
+    "offerLink": "https://s.shopee.com.br/5L7Yh97c6V",
+    "nicho": "Cozinha",
+    "timestamp": 1774803981
+  },
+  {
+    "productNameClean": "Máquina de Lavar Twin Tub Praxis 10kg 2 em 1...",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824hf-mfobvevqv4soc6",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 25,
+    "price": 0,
+    "sales": 372,
+    "offerLink": "https://s.shopee.com.br/4VYRhFG1PL",
+    "nicho": "Casa",
+    "timestamp": 1774803656
   }
 ]
