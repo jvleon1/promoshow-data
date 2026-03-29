@@ -669,5 +669,27 @@
     "offerLink": "https://s.shopee.com.br/20r6qTnCH0",
     "nicho": "Casa",
     "timestamp": 1774810498
+  },
+  {
+    "productNameClean": "Cortina Blackout premium de 6,00 x 2,80 Diversas Cores...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6mkst7i0k7bad",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 27,
+    "price": "51.99",
+    "sales": 6054,
+    "offerLink": "https://s.shopee.com.br/1LbQ3fNhc9",
+    "nicho": "Casa",
+    "timestamp": 1774810858
+  },
+  {
+    "productNameClean": "Secador Roupas Portátil Eletrico Secador Suspenso Cortina JH",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824id-merhk8li10qsfd",
+    "ratingStar": 4.8,
+    "priceDiscountRate": 35,
+    "price": 0,
+    "sales": 85,
+    "offerLink": "https://s.shopee.com.br/9pZyBFsMDt",
+    "nicho": "Casa",
+    "timestamp": 1774810828
   }
 ]
