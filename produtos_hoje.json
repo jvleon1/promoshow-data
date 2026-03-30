@@ -988,5 +988,27 @@
     "offerLink": "https://s.shopee.com.br/1qXiR0swGO",
     "nicho": "Beleza_e_Estilo",
     "timestamp": 1774907339
+  },
+  {
+    "productNameClean": "Centrífuga De Salada Legumes e Vegetais Secador Manual Grande 3...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mloze7j3xqme1c",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 55,
+    "price": "26.9",
+    "sales": 321,
+    "offerLink": "https://s.shopee.com.br/7AZEnde1Kj",
+    "nicho": "Tech_e_Gadgets",
+    "timestamp": 1774908058
+  },
+  {
+    "productNameClean": "KZ ZSN PRO X Fones De Ouvido TWS Sem Fio...",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261c-mk0omonvrta9ca",
+    "ratingStar": 5,
+    "priceDiscountRate": 46,
+    "price": 0,
+    "sales": 3,
+    "offerLink": "https://s.shopee.com.br/5L7acEmDdw",
+    "nicho": "Tech_e_Gadgets",
+    "timestamp": 1774908028
   }
 ]
