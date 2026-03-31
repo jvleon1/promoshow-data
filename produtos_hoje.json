@@ -251,5 +251,27 @@
     "offerLink": "https://s.shopee.com.br/4qBL42dEya",
     "nicho": "Ferramentas",
     "timestamp": 1774964576
+  },
+  {
+    "productNameClean": "MIX PREMIUM NUTS Castanha de Caju/Castanha do Pará/Amêndoas/Nozes/Cranberry/Uva Passas/Amendoim 500G/1KG",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mix927v0ecqpf0",
+    "ratingStar": "4.8",
+    "priceDiscountRate": 27,
+    "price": "49",
+    "sales": 13557,
+    "offerLink": "https://s.shopee.com.br/60NITQCHyI",
+    "nicho": "Cozinha",
+    "timestamp": 1774965657
+  },
+  {
+    "productNameClean": "Cooktop de Indução Britânia Portátil Painel Touch BCTE10A",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82608-mlyzbtxxuayr4a",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 29,
+    "price": 0,
+    "sales": 228,
+    "offerLink": "https://s.shopee.com.br/1gEJJQPC9F",
+    "nicho": "Cozinha",
+    "timestamp": 1774965627
   }
 ]
