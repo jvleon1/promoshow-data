@@ -658,5 +658,38 @@
     "offerLink": "https://s.shopee.com.br/8KlH1h8N1B",
     "nicho": "Tech_e_Gadgets",
     "timestamp": 1775170089
+  },
+  {
+    "productNameClean": "LANÇAMENTO • iPhone 17 Pro / 17 Pro Max 256GB...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhcaeeg33imda2",
+    "ratingStar": "4.8",
+    "priceDiscountRate": 41,
+    "price": "8899",
+    "sales": 157,
+    "offerLink": "https://s.shopee.com.br/50Up5DWRmc",
+    "nicho": "Tech_e_Gadgets",
+    "timestamp": 1775171530
+  },
+  {
+    "productNameClean": "Mesa Controle Placa De Som Com Microfone E Brago Articulado",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhsnry4iimfa3a",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 62,
+    "price": 0,
+    "sales": 100,
+    "offerLink": "https://s.shopee.com.br/AUplblg6D0",
+    "nicho": "Tech_e_Gadgets",
+    "timestamp": 1775170167
+  },
+  {
+    "productNameClean": "Mini Projetor De Luz Noturna Estrela De Astronauta Decoração...",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwr-m0ulj3witu9140",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 65,
+    "price": 0,
+    "sales": 224,
+    "offerLink": "https://s.shopee.com.br/LizVq8cNu",
+    "nicho": "Tech_e_Gadgets",
+    "timestamp": 1775170827
   }
 ]
