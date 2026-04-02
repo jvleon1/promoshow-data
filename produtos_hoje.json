@@ -295,5 +295,27 @@
     "offerLink": "https://s.shopee.com.br/4fryH3ikz4",
     "nicho": "Casa",
     "timestamp": 1775149211
+  },
+  {
+    "productNameClean": "Difusor Aromatizador Elétrico Bivolt Standard (plástico) - Via Aroma",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwa-lzqonoj4jrcc7c",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 28,
+    "price": "29.9",
+    "sales": 1893,
+    "offerLink": "https://s.shopee.com.br/W2PKDzsJV",
+    "nicho": "Casa",
+    "timestamp": 1775149930
+  },
+  {
+    "productNameClean": "Secador Roupas Portátil Eletrico Secador Suspenso Cortina JH",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824id-merhk8li10qsfd",
+    "ratingStar": 4.8,
+    "priceDiscountRate": 35,
+    "price": 0,
+    "sales": 92,
+    "offerLink": "https://s.shopee.com.br/1qXmtsEirY",
+    "nicho": "Casa",
+    "timestamp": 1775149227
   }
 ]
