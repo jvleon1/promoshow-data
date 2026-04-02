@@ -471,5 +471,27 @@
     "offerLink": "https://s.shopee.com.br/70FtETGJkJ",
     "nicho": "Casa",
     "timestamp": 1775158929
+  },
+  {
+    "productNameClean": "Substrato Pronto 10L | Turfa + Perlita + Casca...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjyhig9lx2ipbb",
+    "ratingStar": "4.8",
+    "priceDiscountRate": 20,
+    "price": "27.91",
+    "sales": 491,
+    "offerLink": "https://s.shopee.com.br/7fVa3LPRUG",
+    "nicho": "Beleza_e_Estilo",
+    "timestamp": 1775160369
+  },
+  {
+    "productNameClean": "Perfume Cebolinha Turma Da Mônica Colônia 25ml Jequiti",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfd140910vetb6",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 37,
+    "price": 0,
+    "sales": 554,
+    "offerLink": "https://s.shopee.com.br/2g6u5lamOl",
+    "nicho": "Beleza_e_Estilo",
+    "timestamp": 1775160027
   }
 ]
