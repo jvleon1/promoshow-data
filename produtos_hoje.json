@@ -427,5 +427,27 @@
     "offerLink": "https://s.shopee.com.br/2BAgYMhijB",
     "nicho": "Casa",
     "timestamp": 1775325612
+  },
+  {
+    "productNameClean": "Cadeira Gamer Profissional - Reclinável, Ajustável e Confortável para Escritório...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgn400rlerk535",
+    "ratingStar": "4.8",
+    "priceDiscountRate": 73,
+    "price": "401.99",
+    "sales": 2504,
+    "offerLink": "https://s.shopee.com.br/3Vg49diVm7",
+    "nicho": "Casa",
+    "timestamp": 1775326327
+  },
+  {
+    "productNameClean": "Secador Roupas Portátil Eletrico Secador Suspenso Cortina JH",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824id-merhk8li10qsfd",
+    "ratingStar": 4.8,
+    "priceDiscountRate": 35,
+    "price": 0,
+    "sales": 97,
+    "offerLink": "https://s.shopee.com.br/7pp3InmYVD",
+    "nicho": "Casa",
+    "timestamp": 1775325627
   }
 ]
