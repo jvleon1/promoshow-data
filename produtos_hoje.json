@@ -394,5 +394,27 @@
     "offerLink": "https://s.shopee.com.br/60NP5lHX5a",
     "nicho": "Casa",
     "timestamp": 1775324169
+  },
+  {
+    "productNameClean": "Mata Cupim Domline Pró Inset Rápido Mata Tudo Sem Cheiro...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjyqakl77lkyfa",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 20,
+    "price": "23.95",
+    "sales": 767,
+    "offerLink": "https://s.shopee.com.br/5fkYiNwZ9n",
+    "nicho": "Casa",
+    "timestamp": 1775325247
+  },
+  {
+    "productNameClean": "Máquina de Lavar Twin Tub Praxis 10kg 2 em 1...",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824hf-mfobvevqv4soc6",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 25,
+    "price": 0,
+    "sales": 349,
+    "offerLink": "https://s.shopee.com.br/6VJfhb1g9D",
+    "nicho": "Casa",
+    "timestamp": 1775324967
   }
 ]
