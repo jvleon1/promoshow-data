@@ -328,5 +328,27 @@
     "offerLink": "https://s.shopee.com.br/3LMfWDKsSv",
     "nicho": "Casa",
     "timestamp": 1775410971
+  },
+  {
+    "productNameClean": "Penteadeira Com Gaveta 100CM Console Camarim E&A - Cor",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lzklbm36cxmp16",
+    "ratingStar": "4.5",
+    "priceDiscountRate": 21,
+    "price": "117.99",
+    "sales": 1477,
+    "offerLink": "https://s.shopee.com.br/BPdlDd4bX",
+    "nicho": "Casa",
+    "timestamp": 1775411693
+  },
+  {
+    "productNameClean": "Secador Roupas Portátil Eletrico Secador Suspenso Cortina JH",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824id-merhk8li10qsfd",
+    "ratingStar": 4.8,
+    "priceDiscountRate": 35,
+    "price": 0,
+    "sales": 95,
+    "offerLink": "https://s.shopee.com.br/8ARvHXIJSa",
+    "nicho": "Casa",
+    "timestamp": 1775411355
   }
 ]
