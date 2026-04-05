@@ -295,5 +295,27 @@
     "offerLink": "https://s.shopee.com.br/5VRA1fC5ba",
     "nicho": "Cozinha",
     "timestamp": 1775407014
+  },
+  {
+    "productNameClean": "Agua Perfumada Aromatizador de Ambiente Home Spray para Tecidos...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrvqql7geyvhb5",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 45,
+    "price": "21.9",
+    "sales": 741,
+    "offerLink": "https://s.shopee.com.br/7fVedhnKjb",
+    "nicho": "Casa",
+    "timestamp": 1775408813
+  },
+  {
+    "productNameClean": "Máquina de Lavar Twin Tub Praxis 10kg 2 em 1...",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824hf-mfobvevqv4soc6",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 25,
+    "price": 0,
+    "sales": 345,
+    "offerLink": "https://s.shopee.com.br/8phc1OcbbD",
+    "nicho": "Casa",
+    "timestamp": 1775408415
   }
 ]
