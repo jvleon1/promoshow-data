@@ -658,5 +658,27 @@
     "offerLink": "https://s.shopee.com.br/8ARx9IDqu3",
     "nicho": "Beleza_e_Estilo",
     "timestamp": 1775512491
+  },
+  {
+    "productNameClean": "Fones De Ouvido Bluetooth 5.2 TWS Sem Fio 9D HiFi...",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824il-meg218bh3j0j8a",
+    "ratingStar": "4.6",
+    "priceDiscountRate": 74,
+    "price": "25.99",
+    "sales": 9354,
+    "offerLink": "https://s.shopee.com.br/4qBVDdhrfg",
+    "nicho": "Tech_e_Gadgets",
+    "timestamp": 1775514653
+  },
+  {
+    "productNameClean": "Mouse Gamer Sem Fio Hrebos Premium Wireless IF-263 Alta Performance...",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvy-md4obte3sxk628",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 55,
+    "price": 0,
+    "sales": 261,
+    "offerLink": "https://s.shopee.com.br/4qBVBZuNx1",
+    "nicho": "Tech_e_Gadgets",
+    "timestamp": 1775512850
   }
 ]
