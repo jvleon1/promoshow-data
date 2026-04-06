@@ -306,5 +306,38 @@
     "offerLink": "https://s.shopee.com.br/3fzXNTbcWx",
     "nicho": "Cozinha",
     "timestamp": 1775490173
+  },
+  {
+    "productNameClean": "Chaleira Bule Jarra de Vidro 900ML Com Tampa de Chá...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9yk28dfh7uq71",
+    "ratingStar": "4.8",
+    "priceDiscountRate": 67,
+    "price": "29.45",
+    "sales": 840,
+    "offerLink": "https://s.shopee.com.br/4LFECLkOxP",
+    "nicho": "Cozinha",
+    "timestamp": 1775491613
+  },
+  {
+    "productNameClean": "Panela de Pressão Elétrica Mondial Digital Master Cooker PE-40...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mezpt5zyymfaab",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 13,
+    "price": 0,
+    "sales": 256,
+    "offerLink": "https://s.shopee.com.br/5q41xw8BBi",
+    "nicho": "Cozinha",
+    "timestamp": 1775490589
+  },
+  {
+    "productNameClean": "Cooktop de Indução Britânia Portátil Painel Touch BCTE10A",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82608-mlyzbtxxuayr4a",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 29,
+    "price": 0,
+    "sales": 290,
+    "offerLink": "https://s.shopee.com.br/4qBUmr1nk3",
+    "nicho": "Cozinha",
+    "timestamp": 1775491250
   }
 ]
