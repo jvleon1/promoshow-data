@@ -647,5 +647,27 @@
     "offerLink": "https://s.shopee.com.br/7AZUXlXYBF",
     "nicho": "Casa",
     "timestamp": 1775760893
+  },
+  {
+    "productNameClean": "Mesa Escrivaninha Industrial 90x45x76 cm | resistente, funcional...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgcgzi6q2qdhc6",
+    "ratingStar": "4.8",
+    "priceDiscountRate": 25,
+    "price": "136",
+    "sales": 1592,
+    "offerLink": "https://s.shopee.com.br/4qBZltETBE",
+    "nicho": "Casa",
+    "timestamp": 1775761255
+  },
+  {
+    "productNameClean": "Aspirador de Pó Para Casa Robô Inteligente Com Sensores Anti...",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwh-lxr9gcah5u3jd7",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 51,
+    "price": 0,
+    "sales": 3804,
+    "offerLink": "https://s.shopee.com.br/6L0NYe4Do9",
+    "nicho": "Casa",
+    "timestamp": 1775761250
   }
 ]
