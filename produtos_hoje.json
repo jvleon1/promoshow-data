@@ -493,5 +493,27 @@
     "offerLink": "https://s.shopee.com.br/40cVtGMTZR",
     "nicho": "Casa",
     "timestamp": 1775929790
+  },
+  {
+    "productNameClean": "Penteadeira Compacta com Espelho Interno Dulce - Cores",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgpev8ozu13920",
+    "ratingStar": "4.6",
+    "priceDiscountRate": 10,
+    "price": "187.99",
+    "sales": 2239,
+    "offerLink": "https://s.shopee.com.br/9AKc3VxEBZ",
+    "nicho": "Casa",
+    "timestamp": 1775930451
+  },
+  {
+    "productNameClean": "Secador Roupas Portátil Eletrico Secador Suspenso Cortina JH",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824id-merhk8li10qsfd",
+    "ratingStar": 4.8,
+    "priceDiscountRate": 35,
+    "price": 0,
+    "sales": 102,
+    "offerLink": "https://s.shopee.com.br/AUpzdxj99G",
+    "nicho": "Casa",
+    "timestamp": 1775930450
   }
 ]
