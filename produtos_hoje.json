@@ -757,5 +757,27 @@
     "offerLink": "https://s.shopee.com.br/4qBecGpQuq",
     "nicho": "Casa",
     "timestamp": 1776023693
+  },
+  {
+    "productNameClean": "Óculos de Sol Planta Conceito - Hastes de Sapo Desenho...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjsu8pzptxj664",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 61,
+    "price": "34.97",
+    "sales": 1321,
+    "offerLink": "https://s.shopee.com.br/gM5f1czIU",
+    "nicho": "Beleza_e_Estilo",
+    "timestamp": 1776024053
+  },
+  {
+    "productNameClean": "Perfume Cebolinha Turma Da Mônica Colônia 25ml Jequiti",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfd140910vetb6",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 37,
+    "price": 0,
+    "sales": 618,
+    "offerLink": "https://s.shopee.com.br/4qBecgIrZS",
+    "nicho": "Beleza_e_Estilo",
+    "timestamp": 1776024050
   }
 ]
