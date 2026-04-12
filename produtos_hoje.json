@@ -845,5 +845,27 @@
     "offerLink": "https://s.shopee.com.br/7VCPrI882T",
     "nicho": "Beleza_e_Estilo",
     "timestamp": 1776027293
+  },
+  {
+    "productNameClean": "Perfume Arabe Sabah Al Ward Al Wataniah 100ML",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkecyrfpdc764d",
+    "ratingStar": "4.3",
+    "priceDiscountRate": 63,
+    "price": "110",
+    "sales": 1620,
+    "offerLink": "https://s.shopee.com.br/7fVq40fWvK",
+    "nicho": "Beleza_e_Estilo",
+    "timestamp": 1776027653
+  },
+  {
+    "productNameClean": "Bicicleta Ergométrica Spinning Magnética Gallant Elite X Roda de Inércia...",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbni-m5keaeaqgpu213",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 24,
+    "price": 0,
+    "sales": 3,
+    "offerLink": "https://s.shopee.com.br/W2fWq2CuN",
+    "nicho": "Beleza_e_Estilo",
+    "timestamp": 1776027650
   }
 ]
