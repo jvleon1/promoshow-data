@@ -196,5 +196,27 @@
     "offerLink": "https://s.shopee.com.br/60NdBLSYZe",
     "nicho": "Ferramentas",
     "timestamp": 1776087414
+  },
+  {
+    "productNameClean": "Conjunto Faca Inox 6 Peças Com Cabo Reforçado Aço Carbono...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-ml6nzfp9dk3o96",
+    "ratingStar": "4.7",
+    "priceDiscountRate": 61,
+    "price": "39.49",
+    "sales": 523,
+    "offerLink": "https://s.shopee.com.br/9UxVNQQgmG",
+    "nicho": "Cozinha",
+    "timestamp": 1776088852
+  },
+  {
+    "productNameClean": "Lava Louças Praxis Portátil LLPP Semi-Automática 127V Branca",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m850ox5881ld7a",
+    "ratingStar": 4.8,
+    "priceDiscountRate": 25,
+    "price": 969.9,
+    "sales": 101,
+    "offerLink": "https://s.shopee.com.br/808hacTHPA",
+    "nicho": "Cozinha",
+    "timestamp": 1776088807
   }
 ]
