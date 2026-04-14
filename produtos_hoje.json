@@ -702,5 +702,38 @@
     "offerLink": "https://s.shopee.com.br/6L0VaOYYza",
     "nicho": "Casa",
     "timestamp": 1776196134
+  },
+  {
+    "productNameClean": "Travesseiro de pescoço em formato de U para viagem confortável--0905",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82635-mjvayzp5mqdgcc",
+    "ratingStar": "4.8",
+    "priceDiscountRate": 63,
+    "price": "29.99",
+    "sales": 287,
+    "offerLink": "https://s.shopee.com.br/2g7DETsSNl",
+    "nicho": "Beleza_e_Estilo",
+    "timestamp": 1776196852
+  },
+  {
+    "productNameClean": "Secador Roupas Portátil Eletrico Secador Suspenso Cortina JH",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824id-merhk8li10qsfd",
+    "ratingStar": 4.7,
+    "priceDiscountRate": 35,
+    "price": 129.99,
+    "sales": 108,
+    "offerLink": "https://s.shopee.com.br/20rWQS1vLN",
+    "nicho": "Casa",
+    "timestamp": 1776196147
+  },
+  {
+    "productNameClean": "Caneta Depilador Sobrancelha Elétrico Removedor Tira Pelos USB Recarregável",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjy53m01v9q9a6",
+    "ratingStar": 4.8,
+    "priceDiscountRate": 67,
+    "price": 19.99,
+    "sales": 171,
+    "offerLink": "https://s.shopee.com.br/1qY6Eu12Ek",
+    "nicho": "Beleza_e_Estilo",
+    "timestamp": 1776196810
   }
 ]
