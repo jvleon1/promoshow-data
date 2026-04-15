@@ -570,5 +570,27 @@
     "offerLink": "https://s.shopee.com.br/2LUOHieK2C",
     "nicho": "Casa",
     "timestamp": 1776275352
+  },
+  {
+    "productNameClean": "KIAN FERRO DE PASSAR A SECO 127V FP100",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lb-mlp1gqt1tr7o77",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 17,
+    "price": "57.99",
+    "sales": 161,
+    "offerLink": "https://s.shopee.com.br/4fsJ4o2Vrp",
+    "nicho": "Casa",
+    "timestamp": 1776276053
+  },
+  {
+    "productNameClean": "Secador Roupas Portátil Eletrico Secador Suspenso Cortina JH",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824id-merhk8li10qsfd",
+    "ratingStar": 4.7,
+    "priceDiscountRate": 35,
+    "price": 129.99,
+    "sales": 108,
+    "offerLink": "https://s.shopee.com.br/7AZe3MBbB8",
+    "nicho": "Casa",
+    "timestamp": 1776276012
   }
 ]
