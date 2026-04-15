@@ -141,5 +141,38 @@
     "offerLink": "https://s.shopee.com.br/60NgJpWe2p",
     "nicho": "Ferramentas",
     "timestamp": 1776257332
+  },
+  {
+    "productNameClean": "Esmerilhadeira Lixadeira Angular Profissional 900w 115mm Com 3 Discos",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m7-mlhotdf9q8sm99",
+    "ratingStar": "4.8",
+    "priceDiscountRate": 55,
+    "price": "115",
+    "sales": 788,
+    "offerLink": "https://s.shopee.com.br/3fzlZbOx31",
+    "nicho": "Ferramentas",
+    "timestamp": 1776259132
+  },
+  {
+    "productNameClean": "Inversor Solar Hibrido 2000w 24v 120v Mppt60a Felicity",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbi1fs8mq2uad5",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 13,
+    "price": 1682.5,
+    "sales": 37,
+    "offerLink": "https://s.shopee.com.br/4qBivhjYD7",
+    "nicho": "Ferramentas",
+    "timestamp": 1776257346
+  },
+  {
+    "productNameClean": "Lanterna Led Tática Recarregável USB-C Quebra Vidro Luz Forte",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-maseyxm9hud55c",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 44,
+    "price": 49.99,
+    "sales": 140,
+    "offerLink": "https://s.shopee.com.br/1Lbqm1qx2b",
+    "nicho": "Ferramentas",
+    "timestamp": 1776258007
   }
 ]
