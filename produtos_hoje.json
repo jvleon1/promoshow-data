@@ -867,5 +867,27 @@
     "offerLink": "https://s.shopee.com.br/70GE7ADX2z",
     "nicho": "Beleza_e_Estilo",
     "timestamp": 1776290092
+  },
+  {
+    "productNameClean": "Massageador Elétrico Orbital Relax Spin Tone 110v",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj708m0q4mbm52",
+    "ratingStar": "4.8",
+    "priceDiscountRate": 50,
+    "price": "72.9",
+    "sales": 581,
+    "offerLink": "https://s.shopee.com.br/6fdNixmlj9",
+    "nicho": "Tech_e_Gadgets",
+    "timestamp": 1776290452
+  },
+  {
+    "productNameClean": "HARBOR Fone de Ouvido Headphone ANC Bluetooth Adaptativo Bluetooth+ Cabo...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mavbfez1tzm72c",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 29,
+    "price": 128,
+    "sales": 131,
+    "offerLink": "https://s.shopee.com.br/16TmfUxaC",
+    "nicho": "Tech_e_Gadgets",
+    "timestamp": 1776290413
   }
 ]
