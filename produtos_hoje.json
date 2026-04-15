@@ -647,5 +647,27 @@
     "offerLink": "https://s.shopee.com.br/2BAy8gTHYe",
     "nicho": "Casa",
     "timestamp": 1776278212
+  },
+  {
+    "productNameClean": "Robô Aspirador Inteligente Branco/Preto - Limpeza Automática e Design Compacto",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zts-mkzbwyejl14z7f",
+    "ratingStar": "4.3",
+    "priceDiscountRate": 68,
+    "price": "53.99",
+    "sales": 2694,
+    "offerLink": "https://s.shopee.com.br/7VCUWXsblu",
+    "nicho": "Casa",
+    "timestamp": 1776280012
+  },
+  {
+    "productNameClean": "Máquina de Lavar Twin Tub Praxis 10kg 2 em 1...",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824hf-mfobvevqv4soc6",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 20,
+    "price": 1107.9,
+    "sales": 318,
+    "offerLink": "https://s.shopee.com.br/4fsJ87yUdt",
+    "nicho": "Casa",
+    "timestamp": 1776278952
   }
 ]
