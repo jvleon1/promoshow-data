@@ -372,5 +372,27 @@
     "offerLink": "https://s.shopee.com.br/7fVwAg3dfq",
     "nicho": "Cozinha",
     "timestamp": 1776358492
+  },
+  {
+    "productNameClean": "Espelho De Parede Redondo De vidro 60 X 60 CM...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi3rwut6w0e93e",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 20,
+    "price": "32.9",
+    "sales": 2721,
+    "offerLink": "https://s.shopee.com.br/6pwpBYemLm",
+    "nicho": "Casa",
+    "timestamp": 1776358852
+  },
+  {
+    "productNameClean": "Secador Roupas Portátil Eletrico Secador Suspenso Cortina JH",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824id-merhk8li10qsfd",
+    "ratingStar": 4.7,
+    "priceDiscountRate": 35,
+    "price": 129.99,
+    "sales": 111,
+    "offerLink": "https://s.shopee.com.br/6VJymtyn2f",
+    "nicho": "Casa",
+    "timestamp": 1776358812
   }
 ]
