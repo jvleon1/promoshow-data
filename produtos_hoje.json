@@ -713,5 +713,27 @@
     "offerLink": "https://s.shopee.com.br/1gEjHikeva",
     "nicho": "Beleza_e_Estilo",
     "timestamp": 1776372532
+  },
+  {
+    "productNameClean": "Nupill Creme Antirrugas Q10 + Ácido Hialurônico 50g",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-md3aj6omj8ch67",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 19,
+    "price": "22.49",
+    "sales": 1299,
+    "offerLink": "https://s.shopee.com.br/8KldFCyuGK",
+    "nicho": "Beleza_e_Estilo",
+    "timestamp": 1776373612
+  },
+  {
+    "productNameClean": "Perfume Cebolinha Turma Da Mônica Colônia 25ml Jequiti",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfd140910vetb6",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 37,
+    "price": 27.99,
+    "sales": 615,
+    "offerLink": "https://s.shopee.com.br/5fks3qu2XQ",
+    "nicho": "Beleza_e_Estilo",
+    "timestamp": 1776373212
   }
 ]
