@@ -405,5 +405,27 @@
     "offerLink": "https://s.shopee.com.br/8fOUwyom7u",
     "nicho": "Cozinha",
     "timestamp": 1776444520
+  },
+  {
+    "productNameClean": "Mesa Dobravel Retratil de Parede Suspensa Borda Redonda 90Cm 100Cm...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m927ywvhqn7m5f",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 36,
+    "price": "77",
+    "sales": 1919,
+    "offerLink": "https://s.shopee.com.br/3fzp0cDfxT",
+    "nicho": "Casa",
+    "timestamp": 1776445240
+  },
+  {
+    "productNameClean": "Máquina de Lavar Twin Tub Praxis 10kg 2 em 1...",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824hf-mfobvevqv4soc6",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 20,
+    "price": 1107.9,
+    "sales": 333,
+    "offerLink": "https://s.shopee.com.br/1gEkcuUpQH",
+    "nicho": "Casa",
+    "timestamp": 1776445212
   }
 ]
