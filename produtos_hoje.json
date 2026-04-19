@@ -669,5 +669,38 @@
     "offerLink": "https://s.shopee.com.br/1LbxaQopBB",
     "nicho": "Casa",
     "timestamp": 1776627060
+  },
+  {
+    "productNameClean": "Kit 10, 5 Cuecas Box Masculina Adulto Microfibra Forro 100%...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mggo5nxqp1xgb1",
+    "ratingStar": "4.6",
+    "priceDiscountRate": 21,
+    "price": "26.8",
+    "sales": 1315,
+    "offerLink": "https://s.shopee.com.br/8phyYH5twV",
+    "nicho": "Beleza_e_Estilo",
+    "timestamp": 1776628859
+  },
+  {
+    "productNameClean": "Puff Gigante Almofadão 140x20 Sem Enchimento Lançamento",
+    "imageUrl": "https://cf.shopee.com.br/file/f9a6a06efb76da391810e0d7eef1a9ba",
+    "ratingStar": 4.6,
+    "priceDiscountRate": 84,
+    "price": 61,
+    "sales": 411,
+    "offerLink": "https://s.shopee.com.br/4VYzNYNiR2",
+    "nicho": "Casa",
+    "timestamp": 1776628195
+  },
+  {
+    "productNameClean": "Perfume Cebolinha Turma Da Mônica Colônia 25ml Jequiti",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfd140910vetb6",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 37,
+    "price": 27.99,
+    "sales": 585,
+    "offerLink": "https://s.shopee.com.br/3VgSCTHGiD",
+    "nicho": "Beleza_e_Estilo",
+    "timestamp": 1776628855
   }
 ]
