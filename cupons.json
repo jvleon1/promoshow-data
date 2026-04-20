@@ -24,5 +24,18 @@
     "link": "https://lmdee.link/Kkcut8aoVCNC",
     "validade": null,
     "ativo": true
+  },
+     {
+    "id": 3,
+    "loja": "Shein",
+    "logo": "https://raw.githubusercontent.com/jvleon1/promoshow-data/main/logos/shein-seeklogo.png",
+    "codigo": "",
+    "descricao": "A moda que cai bem",
+    "desconto": "Super ofertas",
+    "categoria": "shein",
+    "fonte": "Lomadee",
+    "link": "https://lmdee.link/YmJwLFmXfvCe",
+    "validade": null,
+    "ativo": true
   }
 ]
