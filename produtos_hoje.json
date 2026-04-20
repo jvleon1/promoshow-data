@@ -526,5 +526,27 @@
     "offerLink": "https://s.shopee.com.br/30kD3nAqZm",
     "nicho": "Casa",
     "timestamp": 1776707699
+  },
+  {
+    "productNameClean": "1200 ml Grande Umidificador Difusor Aromatizador Portátil Usb Led colorido...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-luyt6ofzitlx26",
+    "ratingStar": "4.8",
+    "priceDiscountRate": 73,
+    "price": "29.99",
+    "sales": 671,
+    "offerLink": "https://s.shopee.com.br/4LFaf4Co1Y",
+    "nicho": "Casa",
+    "timestamp": 1776708419
+  },
+  {
+    "productNameClean": "Secador Roupas Portátil Eletrico Secador Suspenso Cortina JH",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824id-merhk8li10qsfd",
+    "ratingStar": 4.7,
+    "priceDiscountRate": 35,
+    "price": 129.99,
+    "sales": 121,
+    "offerLink": "https://s.shopee.com.br/LjRtIlKr2",
+    "nicho": "Casa",
+    "timestamp": 1776708055
   }
 ]
