@@ -438,5 +438,27 @@
     "offerLink": "https://s.shopee.com.br/1LbyuqAFMG",
     "nicho": "Cozinha",
     "timestamp": 1776704099
+  },
+  {
+    "productNameClean": "Kit 2 Mesa de Cabeceira Retrô Compacta com Nicho...",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd6k-lv8yit7piy8947",
+    "ratingStar": "4.8",
+    "priceDiscountRate": 45,
+    "price": "54.8",
+    "sales": 3147,
+    "offerLink": "https://s.shopee.com.br/9fH6wKrY9B",
+    "nicho": "Casa",
+    "timestamp": 1776704460
+  },
+  {
+    "productNameClean": "Puff Gigante Almofadão 140x20 Sem Enchimento Lançamento",
+    "imageUrl": "https://cf.shopee.com.br/file/f9a6a06efb76da391810e0d7eef1a9ba",
+    "ratingStar": 4.6,
+    "priceDiscountRate": 84,
+    "price": 61,
+    "sales": 411,
+    "offerLink": "https://s.shopee.com.br/5fkyAytZyY",
+    "nicho": "Casa",
+    "timestamp": 1776704455
   }
 ]
