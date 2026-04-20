@@ -2,7 +2,7 @@
   {
     "id": 1,
     "loja": "AliExpress",
-    "logo": "https://ae01.alicdn.com/kf/S4a7a1b8dbde84b0ea1b1e7c2a6e2f78fL.png",
+    "logo": "https://raw.githubusercontent.com/jvleon1/promoshow-data/main/logos/aliexpress.svg",
     "codigo": "",
     "descricao": "Ofertas do Dia — desconto automático no link",
     "desconto": "Até 69% OFF",
