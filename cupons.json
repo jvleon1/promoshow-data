@@ -11,5 +11,18 @@
     "link": "https://rzekl.com/g/1e8d114494831ce0587516525dc3e8/",
     "validade": null,
     "ativo": true
+  },
+    {
+    "id": 2,
+    "loja": "Drogaria São Paulo",
+    "logo": "",
+    "codigo": "",
+    "descricao": "Ofertas do Dia — desconto automático no link",
+    "desconto": "Ofertas Imperdiveis",
+    "categoria": "drogaria sao paulo",
+    "fonte": "Lomadee",
+    "link": "https://lmdee.link/Kkcut8aoVCNC",
+    "validade": null,
+    "ativo": true
   }
 ]
