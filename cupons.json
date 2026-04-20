@@ -2,7 +2,7 @@
   {
     "id": 1,
     "loja": "AliExpress",
-    "logo": "",
+    "logo": "https://ae01.alicdn.com/kf/favicon.ico",
     "codigo": "",
     "descricao": "Ofertas do Dia — desconto automático no link",
     "desconto": "Até 69% OFF",
@@ -15,7 +15,7 @@
     {
     "id": 2,
     "loja": "Drogaria São Paulo",
-    "logo": "https://raw.githubusercontent.com/jvleon1/promoshow-data/main/logos/drogaria-sao-paulo.png",
+    "logo": "https://www.drogariasaopaulo.com.br/favicon.ico",
     "codigo": "",
     "descricao": "Ofertas do Dia — desconto automático no link",
     "desconto": "Ofertas Imperdiveis",
