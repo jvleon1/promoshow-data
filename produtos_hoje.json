@@ -449,5 +449,27 @@
     "offerLink": "https://s.shopee.com.br/5fky3ZG3RV",
     "nicho": "Cozinha",
     "timestamp": 1776876134
+  },
+  {
+    "productNameClean": "Kit Umidificador De Ar + 3 Essências 10ml | Difusor...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mflnxsd5vnyf22",
+    "ratingStar": "4.8",
+    "priceDiscountRate": 44,
+    "price": "25.27",
+    "sales": 1691,
+    "offerLink": "https://s.shopee.com.br/6fdVRM3vHm",
+    "nicho": "Casa",
+    "timestamp": 1776877934
+  },
+  {
+    "productNameClean": "Ventilador de Teto LED 60W 80W Lâmpada E27 Controle Remoto...",
+    "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mkixsca7ixaacf",
+    "ratingStar": 4.8,
+    "priceDiscountRate": 66,
+    "price": 38.9,
+    "sales": 1011,
+    "offerLink": "https://s.shopee.com.br/8fObOkcCKD",
+    "nicho": "Casa",
+    "timestamp": 1776877255
   }
 ]
