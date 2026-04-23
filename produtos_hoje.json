@@ -339,5 +339,27 @@
     "offerLink": "https://s.shopee.com.br/1gEu7JEywm",
     "nicho": "Cozinha",
     "timestamp": 1776959294
+  },
+  {
+    "productNameClean": "Kit 6 Potes Com Tampa e Trava 2,2L Alto Off...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztm-mklbg0ysx6o007",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 40,
+    "price": "29.9",
+    "sales": 3154,
+    "offerLink": "https://s.shopee.com.br/4VZ5Uvc5uG",
+    "nicho": "Cozinha",
+    "timestamp": 1776959654
+  },
+  {
+    "productNameClean": "Lava Louças Praxis Portátil LLPP Semi-Automática 127V Branca",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m850ox5881ld7a",
+    "ratingStar": 4.8,
+    "priceDiscountRate": 23,
+    "price": 999.9,
+    "sales": 181,
+    "offerLink": "https://s.shopee.com.br/BQ6KfahXq",
+    "nicho": "Cozinha",
+    "timestamp": 1776959395
   }
 ]
