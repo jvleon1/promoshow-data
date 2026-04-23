@@ -207,5 +207,27 @@
     "offerLink": "https://s.shopee.com.br/8pi4X41vUH",
     "nicho": "Cozinha",
     "timestamp": 1776952816
+  },
+  {
+    "productNameClean": "Frigideira Antiaderente 4 Partes Ovo Hambúrguer",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdxl-ly5gce3lti2f62",
+    "ratingStar": "4.7",
+    "priceDiscountRate": 56,
+    "price": "37.89",
+    "sales": 822,
+    "offerLink": "https://s.shopee.com.br/4LFfBCnAtI",
+    "nicho": "Cozinha",
+    "timestamp": 1776953174
+  },
+  {
+    "productNameClean": "Cooktop de Indução Britânia Portátil Painel Touch BCTE10A",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81ztg-mmw2emy4nojm32",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 32,
+    "price": 209.9,
+    "sales": 480,
+    "offerLink": "https://s.shopee.com.br/4LFfAqISq4",
+    "nicho": "Cozinha",
+    "timestamp": 1776952855
   }
 ]
