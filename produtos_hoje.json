@@ -515,5 +515,27 @@
     "offerLink": "https://s.shopee.com.br/6AhLCpWCMG",
     "nicho": "Casa",
     "timestamp": 1777052996
+  },
+  {
+    "productNameClean": "Caixa de sapatos dobrável com zíper, sapateira transparente, empilhável",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mef4tj6zqark7f",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 70,
+    "price": "32",
+    "sales": 515,
+    "offerLink": "https://s.shopee.com.br/1VvVdisZ0B",
+    "nicho": "Casa",
+    "timestamp": 1777054334
+  },
+  {
+    "productNameClean": "Secador Roupas Portátil Eletrico Secador Suspenso Cortina JH",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824id-merhk8li10qsfd",
+    "ratingStar": 4.7,
+    "priceDiscountRate": 35,
+    "price": 129.99,
+    "sales": 134,
+    "offerLink": "https://s.shopee.com.br/2BBCSEWq9f",
+    "nicho": "Casa",
+    "timestamp": 1777053655
   }
 ]
