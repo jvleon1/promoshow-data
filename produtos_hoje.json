@@ -350,5 +350,27 @@
     "offerLink": "https://s.shopee.com.br/6L0jh7bWym",
     "nicho": "Cozinha",
     "timestamp": 1777132454
+  },
+  {
+    "productNameClean": "Micro-ondas 28L Philco Pintura Limpa Fácil 1100W PMO30S",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zwb-mn0jmrsv670lab",
+    "ratingStar": "4.8",
+    "priceDiscountRate": 12,
+    "price": "599.9",
+    "sales": 142,
+    "offerLink": "https://s.shopee.com.br/7AZtsqWul3",
+    "nicho": "Cozinha",
+    "timestamp": 1777133534
+  },
+  {
+    "productNameClean": "Cooktop de Indução Britânia Portátil Painel Touch BCTE10A",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81ztg-mmw2emy4nojm32",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 32,
+    "price": 209.9,
+    "sales": 488,
+    "offerLink": "https://s.shopee.com.br/4LFfAqISq4",
+    "nicho": "Cozinha",
+    "timestamp": 1777132855
   }
 ]
