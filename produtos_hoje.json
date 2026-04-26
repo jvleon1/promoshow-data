@@ -427,5 +427,27 @@
     "offerLink": "https://s.shopee.com.br/7VCkSAj0SH",
     "nicho": "Casa",
     "timestamp": 1777222815
+  },
+  {
+    "productNameClean": "Tapete de Banheiro Bolinha Super Macio 60 x 40cm Varias...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdjpcd0fjd15fd",
+    "ratingStar": "4.8",
+    "priceDiscountRate": 62,
+    "price": "22.7",
+    "sales": 4114,
+    "offerLink": "https://s.shopee.com.br/40cqjjZDeA",
+    "nicho": "Casa",
+    "timestamp": 1777223174
+  },
+  {
+    "productNameClean": "Secador Roupas Portátil Eletrico Secador Suspenso Cortina JH",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824id-merhk8li10qsfd",
+    "ratingStar": 4.7,
+    "priceDiscountRate": 35,
+    "price": 129.99,
+    "sales": 135,
+    "offerLink": "https://s.shopee.com.br/2BBCSEWq9f",
+    "nicho": "Casa",
+    "timestamp": 1777222829
   }
 ]
