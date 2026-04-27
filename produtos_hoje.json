@@ -273,5 +273,27 @@
     "offerLink": "https://s.shopee.com.br/8V5KZJEXJQ",
     "nicho": "Cozinha",
     "timestamp": 1777301298
+  },
+  {
+    "productNameClean": "Cozedor de Ovos Elétrico Automático 110V, Compacto, Vapor Para Ovos...",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvh-mc0v23ydmz7k91",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 34,
+    "price": "35.9",
+    "sales": 267,
+    "offerLink": "https://s.shopee.com.br/AADYZCJctI",
+    "nicho": "Cozinha",
+    "timestamp": 1777302016
+  },
+  {
+    "productNameClean": "Cooktop de Indução Britânia Portátil Painel Touch BCTE10A",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81ztg-mmw2emy4nojm32",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 32,
+    "price": 209.9,
+    "sales": 511,
+    "offerLink": "https://s.shopee.com.br/LjcqO8ciO",
+    "nicho": "Cozinha",
+    "timestamp": 1777301369
   }
 ]
