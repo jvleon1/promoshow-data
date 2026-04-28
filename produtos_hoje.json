@@ -559,5 +559,27 @@
     "offerLink": "https://s.shopee.com.br/qfteokNBZ",
     "nicho": "Casa",
     "timestamp": 1777399215
+  },
+  {
+    "productNameClean": "2 Cadeado 50mm Reforçado de Alta Segurança Tamanho Medio...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgtjf4hz9zphc6",
+    "ratingStar": "4.6",
+    "priceDiscountRate": 55,
+    "price": "24.99",
+    "sales": 648,
+    "offerLink": "https://s.shopee.com.br/10zJqIf6t7",
+    "nicho": "Casa",
+    "timestamp": 1777400295
+  },
+  {
+    "productNameClean": "Secador Roupas Portátil Eletrico Secador Suspenso Cortina JH",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824id-merhk8li10qsfd",
+    "ratingStar": 4.7,
+    "priceDiscountRate": 35,
+    "price": 129.99,
+    "sales": 134,
+    "offerLink": "https://s.shopee.com.br/W34qhfLUI",
+    "nicho": "Casa",
+    "timestamp": 1777399229
   }
 ]
