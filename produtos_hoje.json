@@ -526,5 +526,27 @@
     "offerLink": "https://s.shopee.com.br/9AL4kg2qfD",
     "nicho": "Casa",
     "timestamp": 1777484894
+  },
+  {
+    "productNameClean": "Sapateira Organizador Multiuso C/ Rodizios Space - Cores",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-maa0hsenj3cm72",
+    "ratingStar": "4.6",
+    "priceDiscountRate": 10,
+    "price": "197.99",
+    "sales": 705,
+    "offerLink": "https://s.shopee.com.br/6VKGWeG8rS",
+    "nicho": "Casa",
+    "timestamp": 1777485254
+  },
+  {
+    "productNameClean": "Secador Roupas Portátil Eletrico Secador Suspenso Cortina JH",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824id-merhk8li10qsfd",
+    "ratingStar": 4.7,
+    "priceDiscountRate": 35,
+    "price": 129.99,
+    "sales": 138,
+    "offerLink": "https://s.shopee.com.br/W34qhfLUI",
+    "nicho": "Casa",
+    "timestamp": 1777484969
   }
 ]
