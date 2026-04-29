@@ -779,5 +779,27 @@
     "offerLink": "https://s.shopee.com.br/8fOl8gqptq",
     "nicho": "Beleza_e_Estilo",
     "timestamp": 1777495694
+  },
+  {
+    "productNameClean": "Secador de Cabelo Philco Titanium Travel 750W",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zug-mmw2epxc5yx25a",
+    "ratingStar": "4.8",
+    "priceDiscountRate": 30,
+    "price": "69.9",
+    "sales": 602,
+    "offerLink": "https://s.shopee.com.br/9AL4xS0Fev",
+    "nicho": "Beleza_e_Estilo",
+    "timestamp": 1777496054
+  },
+  {
+    "productNameClean": "Caneta Depilador Sobrancelha Elétrico Removedor Tira Pelos USB Recarregável",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjy53m01v9q9a6",
+    "ratingStar": 4.8,
+    "priceDiscountRate": 67,
+    "price": 19.99,
+    "sales": 199,
+    "offerLink": "https://s.shopee.com.br/2qQwgw7NfU",
+    "nicho": "Beleza_e_Estilo",
+    "timestamp": 1777495769
   }
 ]
