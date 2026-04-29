@@ -438,5 +438,38 @@
     "offerLink": "https://s.shopee.com.br/7VCnRBEfR8",
     "nicho": "Cozinha",
     "timestamp": 1777481294
+  },
+  {
+    "productNameClean": "Kit Umidificador Aromatizador com 3 Essências Hidrossolúvel | Difusor...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9rbws56io76df",
+    "ratingStar": "4.8",
+    "priceDiscountRate": 58,
+    "price": "27.49",
+    "sales": 955,
+    "offerLink": "https://s.shopee.com.br/30kPuDroae",
+    "nicho": "Casa",
+    "timestamp": 1777482374
+  },
+  {
+    "productNameClean": "Panela de Pressão Elétrica Mondial Digital Master Cooker PE-40...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mezpt5zyymfaab",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 13,
+    "price": 409.99,
+    "sales": 217,
+    "offerLink": "https://s.shopee.com.br/6VKJVkCAtc",
+    "nicho": "Cozinha",
+    "timestamp": 1777481369
+  },
+  {
+    "productNameClean": "Máquina de Lavar Twin Tub Praxis 10kg 2 em 1...",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824hf-mfobvevqv4soc6",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 21,
+    "price": 1085.9,
+    "sales": 273,
+    "offerLink": "https://s.shopee.com.br/7VCnZvA4mr",
+    "nicho": "Casa",
+    "timestamp": 1777482029
   }
 ]
