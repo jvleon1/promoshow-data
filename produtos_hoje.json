@@ -537,5 +537,27 @@
     "offerLink": "https://s.shopee.com.br/16rUQjqqZ",
     "nicho": "Casa",
     "timestamp": 1777574534
+  },
+  {
+    "productNameClean": "Umidificador Grande 2L/600ML Purificador De Ar Grande Aromatizador De Ambiente...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lstm1bvfaxotd5",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 59,
+    "price": "32.79",
+    "sales": 446,
+    "offerLink": "https://s.shopee.com.br/7VCsRrStRW",
+    "nicho": "Casa",
+    "timestamp": 1777575974
+  },
+  {
+    "productNameClean": "Puff Gigante Almofadão 140x20 Sem Enchimento Lançamento",
+    "imageUrl": "https://cf.shopee.com.br/file/f9a6a06efb76da391810e0d7eef1a9ba",
+    "ratingStar": 4.6,
+    "priceDiscountRate": 82,
+    "price": 64.97,
+    "sales": 368,
+    "offerLink": "https://s.shopee.com.br/7fWIdm79hP",
+    "nicho": "Casa",
+    "timestamp": 1777575629
   }
 ]
