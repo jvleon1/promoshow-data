@@ -537,5 +537,27 @@
     "offerLink": "https://s.shopee.com.br/8V5PYkqvIU",
     "nicho": "Casa",
     "timestamp": 1777830134
+  },
+  {
+    "productNameClean": "Porta Cinto Acrílico 24x8x11cm MAX Decor Cristal Preto Branco",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc2eu72yg1bb78",
+    "ratingStar": "4.8",
+    "priceDiscountRate": 36,
+    "price": "49.9",
+    "sales": 1131,
+    "offerLink": "https://s.shopee.com.br/6AhWR47ub9",
+    "nicho": "Casa",
+    "timestamp": 1777830854
+  },
+  {
+    "productNameClean": "Secador Roupas Portátil Eletrico Secador Suspenso Cortina JH",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824id-merhk8li10qsfd",
+    "ratingStar": 4.7,
+    "priceDiscountRate": 35,
+    "price": 129.99,
+    "sales": 135,
+    "offerLink": "https://s.shopee.com.br/AUqYimJeb2",
+    "nicho": "Casa",
+    "timestamp": 1777830569
   }
 ]
