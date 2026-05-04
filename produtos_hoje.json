@@ -944,5 +944,27 @@
     "offerLink": "https://s.shopee.com.br/9zuIiRXC8y",
     "nicho": "Tech_e_Gadgets",
     "timestamp": 1777934894
+  },
+  {
+    "productNameClean": "CELULAR XIAOMI POCO X8 PRO MAX 512GB / 256GB 5G...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mmbm774rtwcn7e",
+    "ratingStar": "5",
+    "priceDiscountRate": 49,
+    "price": "3399",
+    "sales": 819,
+    "offerLink": "https://s.shopee.com.br/2VoHe0WUsu",
+    "nicho": "Tech_e_Gadgets",
+    "timestamp": 1777935254
+  },
+  {
+    "productNameClean": "Mouse Gamer Sem Fio Hrebos Premium Wireless IF-263 Alta Performance...",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvy-md4obte3sxk628",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 55,
+    "price": 54.49,
+    "sales": 100,
+    "offerLink": "https://s.shopee.com.br/8piLKnbh70",
+    "nicho": "Tech_e_Gadgets",
+    "timestamp": 1777934969
   }
 ]
