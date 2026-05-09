@@ -856,5 +856,38 @@
     "offerLink": "https://s.shopee.com.br/1761z2N9D",
     "nicho": "Beleza_e_Estilo",
     "timestamp": 1778362214
+  },
+  {
+    "productNameClean": "KIT 3 PULSEIRA PARA SMARTWATCH APPLE PRO ULTRA SPORT LISA...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lj-mmo0cc8ft340b5",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 21,
+    "price": "29.94",
+    "sales": 333,
+    "offerLink": "https://s.shopee.com.br/AADsB8h3kM",
+    "nicho": "Tech_e_Gadgets",
+    "timestamp": 1778364374
+  },
+  {
+    "productNameClean": "Perfume Cebolinha Turma Da Mônica Colônia 25ml Jequiti",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfd140910vetb6",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 37,
+    "price": 27.99,
+    "sales": 363,
+    "offerLink": "https://s.shopee.com.br/3B466kcNU2",
+    "nicho": "Beleza_e_Estilo",
+    "timestamp": 1778363369
+  },
+  {
+    "productNameClean": "Attack Shark X11 Mouse Gamer Sem Fio Original Com Adesivo...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zuc-mkvnp00udwjl66",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 30,
+    "price": 229.9,
+    "sales": 239,
+    "offerLink": "https://s.shopee.com.br/6VKWcE81Hy",
+    "nicho": "Tech_e_Gadgets",
+    "timestamp": 1778364029
   }
 ]
