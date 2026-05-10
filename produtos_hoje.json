@@ -240,5 +240,27 @@
     "offerLink": "https://s.shopee.com.br/9zuT5e0k5L",
     "nicho": "Cozinha",
     "timestamp": 1778424494
+  },
+  {
+    "productNameClean": "Panela De Pressao Pequena 2,5 Litros Fortlar Colorida A- LAM",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3qffnuznbjp4a",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 17,
+    "price": "57.9",
+    "sales": 598,
+    "offerLink": "https://s.shopee.com.br/8ASougf09B",
+    "nicho": "Cozinha",
+    "timestamp": 1778424854
+  },
+  {
+    "productNameClean": "Cooktop de Indução Britânia Portátil Painel Touch BCTE10A",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81ztg-mmw2emy4nojm32",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 23,
+    "price": 239.9,
+    "sales": 489,
+    "offerLink": "https://s.shopee.com.br/gMnyZzCb1",
+    "nicho": "Cozinha",
+    "timestamp": 1778424568
   }
 ]
