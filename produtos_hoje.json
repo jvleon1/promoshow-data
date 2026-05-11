@@ -603,5 +603,27 @@
     "offerLink": "https://s.shopee.com.br/40dHj2uvie",
     "nicho": "Casa",
     "timestamp": 1778529254
+  },
+  {
+    "productNameClean": "Kit 2 Camiseta Oversized Algodão Masculina",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81zty-mkq1qppk0i6aa6",
+    "ratingStar": "4.8",
+    "priceDiscountRate": 56,
+    "price": "39.9",
+    "sales": 1794,
+    "offerLink": "https://s.shopee.com.br/3B4AtoddKV",
+    "nicho": "Beleza_e_Estilo",
+    "timestamp": 1778529974
+  },
+  {
+    "productNameClean": "Caneta Depilador Sobrancelha Elétrico Removedor Tira Pelos USB Recarregável",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjy53m01v9q9a6",
+    "ratingStar": 4.8,
+    "priceDiscountRate": 67,
+    "price": 19.99,
+    "sales": 103,
+    "offerLink": "https://s.shopee.com.br/1gFN6fOExv",
+    "nicho": "Beleza_e_Estilo",
+    "timestamp": 1778529629
   }
 ]
