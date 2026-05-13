@@ -823,5 +823,27 @@
     "offerLink": "https://s.shopee.com.br/3g0Sxo83ZB",
     "nicho": "Casa",
     "timestamp": 1778697384
+  },
+  {
+    "productNameClean": "Água Perfumada 500ml Para Lençóis, Roupas e Tecidos + Borrifador...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mm3g9j46pmh0e5",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 52,
+    "price": "28.89",
+    "sales": 148,
+    "offerLink": "https://s.shopee.com.br/3LNe9GHAPw",
+    "nicho": "Casa",
+    "timestamp": 1778698825
+  },
+  {
+    "productNameClean": "Luminária Capivara PLA Luz Noturna Para Dormir",
+    "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m6fb1rqeym1o24",
+    "ratingStar": 4.7,
+    "priceDiscountRate": 12,
+    "price": 24.99,
+    "sales": 495,
+    "offerLink": "https://s.shopee.com.br/9fHhkH11fQ",
+    "nicho": "Casa",
+    "timestamp": 1778698170
   }
 ]
