@@ -713,5 +713,27 @@
     "offerLink": "https://s.shopee.com.br/6fe660vz5O",
     "nicho": "Casa",
     "timestamp": 1778694025
+  },
+  {
+    "productNameClean": "Refil Via Aroma 1l Agua Perfumada Aromatizador Tecido Roupas Via...",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rauu-ma33z6hzjov6bf",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 42,
+    "price": "55.99",
+    "sales": 140,
+    "offerLink": "https://s.shopee.com.br/2VoX9jKL6x",
+    "nicho": "Casa",
+    "timestamp": 1778695224
+  },
+  {
+    "productNameClean": "Puff Gigante Almofadão 140x20 Sem Enchimento Lançamento",
+    "imageUrl": "https://cf.shopee.com.br/file/f9a6a06efb76da391810e0d7eef1a9ba",
+    "ratingStar": 4.6,
+    "priceDiscountRate": 82,
+    "price": 64.97,
+    "sales": 363,
+    "offerLink": "https://s.shopee.com.br/4VZa0dy6j1",
+    "nicho": "Casa",
+    "timestamp": 1778694569
   }
 ]
