@@ -273,5 +273,27 @@
     "offerLink": "https://s.shopee.com.br/20sHtDhwQ2",
     "nicho": "Cozinha",
     "timestamp": 1778767225
+  },
+  {
+    "productNameClean": "Lava-Louças Brastemp 8 Serviços Branca BLF08BB",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lr5z1kmnuubx9f",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 33,
+    "price": "1746.74",
+    "sales": 157,
+    "offerLink": "https://s.shopee.com.br/AADzcVG1My",
+    "nicho": "Cozinha",
+    "timestamp": 1778767464
+  },
+  {
+    "productNameClean": "Cooktop de Indução Britânia Portátil Painel Touch BCTE10A",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xx-mo5h3v2fx6v834",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 23,
+    "price": 239.9,
+    "sales": 438,
+    "offerLink": "https://s.shopee.com.br/1Lcb60FHGx",
+    "nicho": "Cozinha",
+    "timestamp": 1778767229
   }
 ]
