@@ -504,5 +504,27 @@
     "offerLink": "https://s.shopee.com.br/7fWekV9IO7",
     "nicho": "Cozinha",
     "timestamp": 1778860825
+  },
+  {
+    "productNameClean": "Mini Liquidificador Portátil Mixer Shake Juice 400ml + Copo Extra...",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259i-mewk4muxgd8i0f",
+    "ratingStar": "4.5",
+    "priceDiscountRate": 56,
+    "price": "35.99",
+    "sales": 375,
+    "offerLink": "https://s.shopee.com.br/7pq4xdF4pV",
+    "nicho": "Cozinha",
+    "timestamp": 1778861544
+  },
+  {
+    "productNameClean": "Lava Louças Praxis Portátil LLPP Semi-Automática 127V Branca",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m850ox5881ld7a",
+    "ratingStar": 4.8,
+    "priceDiscountRate": 23,
+    "price": 999.9,
+    "sales": 122,
+    "offerLink": "https://s.shopee.com.br/gMw1uS2fD",
+    "nicho": "Cozinha",
+    "timestamp": 1778860829
   }
 ]
