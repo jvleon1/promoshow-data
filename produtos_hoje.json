@@ -581,5 +581,27 @@
     "offerLink": "https://s.shopee.com.br/1VwB3BO4NL",
     "nicho": "Cozinha",
     "timestamp": 1779295704
+  },
+  {
+    "productNameClean": "KIT 3/4/5/6 Prendedor Segurador de Porta Peso de Porta Prático...",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rd6y-m723ipl0iznf8d",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 75,
+    "price": "42.9",
+    "sales": 620,
+    "offerLink": "https://s.shopee.com.br/8KmVCq5Vg8",
+    "nicho": "Casa",
+    "timestamp": 1779296664
+  },
+  {
+    "productNameClean": "Puff Gigante Almofadão 140x20 Sem Enchimento Lançamento",
+    "imageUrl": "https://cf.shopee.com.br/file/f9a6a06efb76da391810e0d7eef1a9ba",
+    "ratingStar": 4.6,
+    "priceDiscountRate": 82,
+    "price": 64.97,
+    "sales": 356,
+    "offerLink": "https://s.shopee.com.br/30kyqlsxFt",
+    "nicho": "Casa",
+    "timestamp": 1779296429
   }
 ]
