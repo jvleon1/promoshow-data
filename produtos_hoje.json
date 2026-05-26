@@ -471,5 +471,27 @@
     "offerLink": "https://s.shopee.com.br/6pxpG1IY0Z",
     "nicho": "Cozinha",
     "timestamp": 1779810024
+  },
+  {
+    "productNameClean": "Espeto Giratorio Eletrico Churrasco Presente Flex Top Eco Soft Grill",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lo2y3b3h2rik9d",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 37,
+    "price": "63",
+    "sales": 808,
+    "offerLink": "https://s.shopee.com.br/8KmczCjw5x",
+    "nicho": "Cozinha",
+    "timestamp": 1779810744
+  },
+  {
+    "productNameClean": "Cozedor Elétrico Multifuncional De Ovo Milho A Vapor Rápido 110v",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mftrnxzb9n2cdd",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 55,
+    "price": 35.99,
+    "sales": 115,
+    "offerLink": "https://s.shopee.com.br/2LVRXf4AmE",
+    "nicho": "Cozinha",
+    "timestamp": 1779810264
   }
 ]
