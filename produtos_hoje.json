@@ -592,5 +592,27 @@
     "offerLink": "https://s.shopee.com.br/17TWZzil8",
     "nicho": "Cozinha",
     "timestamp": 1779814169
+  },
+  {
+    "productNameClean": "Travesseiro Encosto Triangular Repouso Leitura Encosto Anatômico Pós Cirúrgico",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6ba6du07psgb8",
+    "ratingStar": "4.7",
+    "priceDiscountRate": 56,
+    "price": "39.95",
+    "sales": 1910,
+    "offerLink": "https://s.shopee.com.br/5VSRrelbkq",
+    "nicho": "Casa",
+    "timestamp": 1779815065
+  },
+  {
+    "productNameClean": "Puff Gigante Almofadão 140x20 Sem Enchimento Lançamento",
+    "imageUrl": "https://cf.shopee.com.br/file/f9a6a06efb76da391810e0d7eef1a9ba",
+    "ratingStar": 4.6,
+    "priceDiscountRate": 82,
+    "price": 64.97,
+    "sales": 353,
+    "offerLink": "https://s.shopee.com.br/AAEHMOXFDI",
+    "nicho": "Casa",
+    "timestamp": 1779814829
   }
 ]
