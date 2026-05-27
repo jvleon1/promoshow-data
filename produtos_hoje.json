@@ -295,5 +295,27 @@
     "offerLink": "https://s.shopee.com.br/4qCo00TTJo",
     "nicho": "Cozinha",
     "timestamp": 1779890428
+  },
+  {
+    "productNameClean": "Marmita Elétrica Veicular 12v/bivolt Aquecedor De Alimentos",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822wo-mogk8rbjhatc27",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 45,
+    "price": "93.09",
+    "sales": 421,
+    "offerLink": "https://s.shopee.com.br/9pbTxT8JSH",
+    "nicho": "Cozinha",
+    "timestamp": 1779890664
+  },
+  {
+    "productNameClean": "Cooktop de Indução Britânia Portátil Painel Touch BCTE10A",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-822xp-mofq2z7ahm310a",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 19,
+    "price": 249.9,
+    "sales": 224,
+    "offerLink": "https://s.shopee.com.br/8ATENFTsvp",
+    "nicho": "Cozinha",
+    "timestamp": 1779890429
   }
 ]
