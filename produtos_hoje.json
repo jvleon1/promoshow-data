@@ -1032,5 +1032,27 @@
     "offerLink": "https://s.shopee.com.br/6AiC1vRqbs",
     "nicho": "Beleza_e_Estilo",
     "timestamp": 1779914425
+  },
+  {
+    "productNameClean": "Whey Protein Concentrado 1kg Refil - FTW",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfsibzxfer5w38",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 62,
+    "price": "74.9",
+    "sales": 1855,
+    "offerLink": "https://s.shopee.com.br/6feSbCDjNW",
+    "nicho": "Beleza_e_Estilo",
+    "timestamp": 1779915145
+  },
+  {
+    "productNameClean": "Perfume Cebolinha Turma Da Mônica Colônia 25ml Jequiti",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfd140910vetb6",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 32,
+    "price": 29.99,
+    "sales": 464,
+    "offerLink": "https://s.shopee.com.br/1qZCsaWzPW",
+    "nicho": "Beleza_e_Estilo",
+    "timestamp": 1779914969
   }
 ]
