@@ -647,5 +647,27 @@
     "offerLink": "https://s.shopee.com.br/AAEIrVbqhW",
     "nicho": "Cozinha",
     "timestamp": 1779900984
+  },
+  {
+    "productNameClean": "Agua Perfumada Aromatizador de Ambiente Home Spray para Tecidos...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lrvqql7geyvhb5",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 45,
+    "price": "21.9",
+    "sales": 693,
+    "offerLink": "https://s.shopee.com.br/9ALnMba53B",
+    "nicho": "Casa",
+    "timestamp": 1779901464
+  },
+  {
+    "productNameClean": "Ventilador de Teto LED 60W 80W Lâmpada E27 Controle Remoto...",
+    "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mkixsca7ixaacf",
+    "ratingStar": 4.8,
+    "priceDiscountRate": 66,
+    "price": 38.9,
+    "sales": 1852,
+    "offerLink": "https://s.shopee.com.br/3LNys5nRsL",
+    "nicho": "Casa",
+    "timestamp": 1779901229
   }
 ]
