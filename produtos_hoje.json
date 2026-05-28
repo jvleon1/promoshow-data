@@ -922,5 +922,27 @@
     "offerLink": "https://s.shopee.com.br/7pqRRiPMxf",
     "nicho": "Casa",
     "timestamp": 1779996984
+  },
+  {
+    "productNameClean": "Cortina Blackout premium de 6,00 x 2,80 Diversas Cores...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6mkst7i0k7bad",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 32,
+    "price": "43.74",
+    "sales": 4312,
+    "offerLink": "https://s.shopee.com.br/4VZzQ1CwGs",
+    "nicho": "Casa",
+    "timestamp": 1779997944
+  },
+  {
+    "productNameClean": "Ventilador de Teto LED 60W 80W Lâmpada E27 Controle Remoto...",
+    "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mkixsca7ixaacf",
+    "ratingStar": 4.8,
+    "priceDiscountRate": 66,
+    "price": 38.9,
+    "sales": 1901,
+    "offerLink": "https://s.shopee.com.br/30lBnVBxpz",
+    "nicho": "Casa",
+    "timestamp": 1779997769
   }
 ]
