@@ -603,5 +603,27 @@
     "offerLink": "https://s.shopee.com.br/1gFo1RI7UA",
     "nicho": "Casa",
     "timestamp": 1779987626
+  },
+  {
+    "productNameClean": "Umidificador de Ar 3500ml Silencioso Bivolt Oasis OIH-6621",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7reoq-m8f495kmjdt314",
+    "ratingStar": "4.8",
+    "priceDiscountRate": 30,
+    "price": "130.2",
+    "sales": 469,
+    "offerLink": "https://s.shopee.com.br/17a2eIDVH",
+    "nicho": "Casa",
+    "timestamp": 1779987864
+  },
+  {
+    "productNameClean": "Secador Roupas Portátil Eletrico Secador Suspenso Cortina JH",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824id-merhk8li10qsfd",
+    "ratingStar": 4.7,
+    "priceDiscountRate": 35,
+    "price": 129.99,
+    "sales": 320,
+    "offerLink": "https://s.shopee.com.br/6pxuAwOqiA",
+    "nicho": "Casa",
+    "timestamp": 1779987629
   }
 ]
