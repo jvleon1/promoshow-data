@@ -977,5 +977,27 @@
     "offerLink": "https://s.shopee.com.br/20seYqCHjt",
     "nicho": "Casa",
     "timestamp": 1780170984
+  },
+  {
+    "productNameClean": "Shapadin Desafio 21 dias",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztf-mkvpnje7rojna2",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 61,
+    "price": "74.8",
+    "sales": 1022,
+    "offerLink": "https://s.shopee.com.br/2BC80m3yoJ",
+    "nicho": "Beleza_e_Estilo",
+    "timestamp": 1780171464
+  },
+  {
+    "productNameClean": "Perfume Cebolinha Turma Da Mônica Colônia 25ml Jequiti",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfd140910vetb6",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 32,
+    "price": 29.99,
+    "sales": 445,
+    "offerLink": "https://s.shopee.com.br/8V6BY98jdE",
+    "nicho": "Beleza_e_Estilo",
+    "timestamp": 1780171229
   }
 ]
