@@ -856,5 +856,27 @@
     "offerLink": "https://s.shopee.com.br/1gFsoewqK3",
     "nicho": "Casa",
     "timestamp": 1780256904
+  },
+  {
+    "productNameClean": "ÁGUA PERFUMADA 500ML VIA AROMA SPRAY PARA TECIDO CHEIRINHO...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-meu0hjpeyry9d4",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 40,
+    "price": "29.99",
+    "sales": 258,
+    "offerLink": "https://s.shopee.com.br/9fIAPTvN9b",
+    "nicho": "Casa",
+    "timestamp": 1780257144
+  },
+  {
+    "productNameClean": "Secador Roupas Portátil Eletrico Secador Suspenso Cortina JH",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824id-merhk8li10qsfd",
+    "ratingStar": 4.7,
+    "priceDiscountRate": 35,
+    "price": 129.99,
+    "sales": 410,
+    "offerLink": "https://s.shopee.com.br/7pqWL3YTjd",
+    "nicho": "Casa",
+    "timestamp": 1780256969
   }
 ]
