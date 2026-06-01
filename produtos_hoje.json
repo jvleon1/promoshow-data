@@ -570,5 +570,27 @@
     "offerLink": "https://s.shopee.com.br/7VDhLRi8Kj",
     "nicho": "Cozinha",
     "timestamp": 1780332984
+  },
+  {
+    "productNameClean": "Cadeiras Gruvyer Sala de Jantar Gourmet Kit com 2, 3...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lk-mmax36ogg35sb9",
+    "ratingStar": "4.8",
+    "priceDiscountRate": 12,
+    "price": "169.9",
+    "sales": 809,
+    "offerLink": "https://s.shopee.com.br/70HQl4oFH2",
+    "nicho": "Casa",
+    "timestamp": 1780333464
+  },
+  {
+    "productNameClean": "Aspirador de Pó Para Casa Robô Inteligente Com Sensores Anti...",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwh-lxr9gcah5u3jd7",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 48,
+    "price": 519.99,
+    "sales": 2066,
+    "offerLink": "https://s.shopee.com.br/AUrHMXaSuN",
+    "nicho": "Casa",
+    "timestamp": 1780333229
   }
 ]
