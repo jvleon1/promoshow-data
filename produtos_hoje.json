@@ -64,5 +64,27 @@
     "offerLink": "https://s.shopee.com.br/17fxMyH3c",
     "nicho": "Pets",
     "timestamp": 1780311384
+  },
+  {
+    "productNameClean": "Esmerilhadeira Lixadeira Angular 950w 115mm 4.1/2 11000rpm",
+    "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mn2pgznqrr4690",
+    "ratingStar": "4.8",
+    "priceDiscountRate": 50,
+    "price": "122.98",
+    "sales": 3487,
+    "offerLink": "https://s.shopee.com.br/8KmmN0pLov",
+    "nicho": "Ferramentas",
+    "timestamp": 1780311864
+  },
+  {
+    "productNameClean": "Lanterna Led Tática Recarregável USB-C Quebra Vidro Luz Forte",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-maseyxm9hud55c",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 44,
+    "price": 49.99,
+    "sales": 102,
+    "offerLink": "https://s.shopee.com.br/W3v5N2tSW",
+    "nicho": "Ferramentas",
+    "timestamp": 1780311628
   }
 ]
