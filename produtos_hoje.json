@@ -724,5 +724,27 @@
     "offerLink": "https://s.shopee.com.br/1qZNqSesrl",
     "nicho": "Casa",
     "timestamp": 1780508969
+  },
+  {
+    "productNameClean": "Umidificador de Ar Clear Tank 2,1 Litros Multi Saúde...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mh80ez91dybk62",
+    "ratingStar": "5",
+    "priceDiscountRate": 39,
+    "price": "99.9",
+    "sales": 859,
+    "offerLink": "https://s.shopee.com.br/2qRv3azL4s",
+    "nicho": "Casa",
+    "timestamp": 1780510104
+  },
+  {
+    "productNameClean": "Secador Roupas Portátil Eletrico Secador Suspenso Cortina JH",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824id-merhk8li10qsfd",
+    "ratingStar": 4.7,
+    "priceDiscountRate": 35,
+    "price": 129.99,
+    "sales": 447,
+    "offerLink": "https://s.shopee.com.br/W40Gla7Kz",
+    "nicho": "Casa",
+    "timestamp": 1780509629
   }
 ]
