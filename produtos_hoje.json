@@ -856,5 +856,27 @@
     "offerLink": "https://s.shopee.com.br/6fefGHHhuL",
     "nicho": "Casa",
     "timestamp": 1780598904
+  },
+  {
+    "productNameClean": "Kit 2 Tapetes De Banheiro Bolinha Popcorn Antiderrapante Chenille Macio...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-miq0u5uagfepa3",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 42,
+    "price": "34.9",
+    "sales": 1073,
+    "offerLink": "https://s.shopee.com.br/5VShsPPJnM",
+    "nicho": "Casa",
+    "timestamp": 1780599144
+  },
+  {
+    "productNameClean": "Secador Roupas Portátil Eletrico Secador Suspenso Cortina JH",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824id-merhk8li10qsfd",
+    "ratingStar": 4.7,
+    "priceDiscountRate": 35,
+    "price": 129.99,
+    "sales": 465,
+    "offerLink": "https://s.shopee.com.br/2g8WV0Iods",
+    "nicho": "Casa",
+    "timestamp": 1780598969
   }
 ]
