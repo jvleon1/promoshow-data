@@ -735,5 +735,27 @@
     "offerLink": "https://s.shopee.com.br/7pqceQDGXe",
     "nicho": "Casa",
     "timestamp": 1780681705
+  },
+  {
+    "productNameClean": "Cortina Roma 2,40 x 1,70 Para Janela, Sala, Quarto, Decoração...",
+    "imageUrl": "https://cf.shopee.com.br/file/73744becb70af619af84ae1eff7b7e80",
+    "ratingStar": "4.5",
+    "priceDiscountRate": 40,
+    "price": "29.8",
+    "sales": 3244,
+    "offerLink": "https://s.shopee.com.br/5fm7yOg6RD",
+    "nicho": "Casa",
+    "timestamp": 1780682424
+  },
+  {
+    "productNameClean": "Luz Noturna De Controle Remoto Com Toque De Recarregável Luminária...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mlhhkme1e3ut4f",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 45,
+    "price": 49.8,
+    "sales": 906,
+    "offerLink": "https://s.shopee.com.br/6fegn7o6Vi",
+    "nicho": "Casa",
+    "timestamp": 1780681769
   }
 ]
