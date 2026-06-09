@@ -295,5 +295,27 @@
     "offerLink": "https://s.shopee.com.br/6VLL986WqN",
     "nicho": "Cozinha",
     "timestamp": 1781013624
+  },
+  {
+    "productNameClean": "Rechaud Elétrico Banho Maria 4 Cubas inox",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk13mlzq68020e",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 20,
+    "price": "439.65",
+    "sales": 299,
+    "offerLink": "https://s.shopee.com.br/6AiWKJDqOp",
+    "nicho": "Cozinha",
+    "timestamp": 1781013864
+  },
+  {
+    "productNameClean": "Lava Louças Praxis Portátil LLPP Semi-Automática 127V Branca",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m850ox5881ld7a",
+    "ratingStar": 4.8,
+    "priceDiscountRate": 25,
+    "price": 979.9,
+    "sales": 148,
+    "offerLink": "https://s.shopee.com.br/30lT1S6sGt",
+    "nicho": "Cozinha",
+    "timestamp": 1781013629
   }
 ]
