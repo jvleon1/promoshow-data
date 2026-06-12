@@ -1,26 +1,3 @@
 {
-  "resenhas": [
-    {
-      "id": "1781229597874",
-      "titulo": "teste",
-      "subtitulo": "teste",
-      "categoria": "Ã°ÂÂÂÃ¯Â¸Â Fitness",
-      "autor": "JoÃÂ£o Victor",
-      "fonte": "",
-      "fonteUrl": "",
-      "imagemCapa": "",
-      "data": "2026-06-12T01:59:57.874Z",
-      "publicado": true,
-      "secoes": [
-        {
-          "h2": "teste",
-          "h3": "teste",
-          "texto": "teste",
-          "pros": [
-            "teste"
-          ]
-        }
-      ]
-    }
-  ]
+  "resenhas": []
 }
