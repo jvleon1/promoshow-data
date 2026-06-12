@@ -1,3 +1,23 @@
 {
-  "resenhas": []
+  "resenhas": [
+    {
+      "id": "1781230143773",
+      "titulo": "teste",
+      "subtitulo": "teste",
+      "categoria": "🏋️ Fitness",
+      "autor": "João Victor",
+      "fonte": "",
+      "fonteUrl": "",
+      "imagemCapa": "",
+      "data": "2026-06-12T02:09:03.773Z",
+      "publicado": true,
+      "secoes": [
+        {
+          "h2": "teste",
+          "h3": "teste",
+          "texto": "teste"
+        }
+      ]
+    }
+  ]
 }
