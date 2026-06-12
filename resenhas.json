@@ -4,8 +4,8 @@
       "id": "1781229597874",
       "titulo": "teste",
       "subtitulo": "teste",
-      "categoria": "🏋️ Fitness",
-      "autor": "João Victor",
+      "categoria": "ðï¸ Fitness",
+      "autor": "JoÃ£o Victor",
       "fonte": "",
       "fonteUrl": "",
       "imagemCapa": "",
@@ -18,62 +18,6 @@
           "texto": "teste",
           "pros": [
             "teste"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "exemplo-001",
-      "titulo": "Melhores Bikes ErgomÃ©tricas Custo-BenefÃ­cio 2026",
-      "subtitulo": "Comparamos as bikes magnÃ©ticas e de resistÃªncia mecÃ¢nica mais vendidas da Shopee. Veja qual vale mais a pena para o seu bolso e objetivo.",
-      "categoria": "ðï¸ Fitness",
-      "autor": "JoÃ£o Victor",
-      "fonte": "Shopee",
-      "fonteUrl": "https://shopee.com.br",
-      "data": "2026-06-04T10:00:00.000Z",
-      "publicado": true,
-      "secoes": [
-        {
-          "h2": "Bike MagnÃ©tica â A melhor para iniciantes",
-          "h3": "Silenciosa, confortÃ¡vel e com boa regulagem",
-          "texto": "A bike magnÃ©tica se destaca pelo sistema de resistÃªncia sem atrito fÃ­sico, o que a torna praticamente silenciosa. Ideal para quem mora em apartamento ou treina cedo pela manhÃ£ sem querer acordar ninguÃ©m.",
-          "pros": [
-            "Silenciosa",
-            "Regulagem suave de resistÃªncia",
-            "DurÃ¡vel a longo prazo"
-          ],
-          "cons": [
-            "PreÃ§o um pouco mais alto",
-            "Menos sensaÃ§Ã£o de pedalada real"
-          ],
-          "veredicto": "Melhor escolha para quem busca conforto e silÃªncio. Vale o investimento extra.",
-          "produtos": [
-            {
-              "nome": "Bike ErgomÃ©trica MagnÃ©tica Kikos F3i",
-              "link": "https://shopee.com.br/produto-exemplo",
-              "descricao": "8 nÃ­veis de resistÃªncia magnÃ©tica, monitor LCD, suporta atÃ© 110kg"
-            }
-          ]
-        },
-        {
-          "h2": "Bike de ResistÃªncia MecÃ¢nica â A mais acessÃ­vel",
-          "texto": "Para quem quer comeÃ§ar a se exercitar sem gastar muito, a bike de resistÃªncia mecÃ¢nica Ã© a opÃ§Ã£o mais em conta. O custo de entrada Ã© baixo e ela cumpre bem o papel de movimentar o corpo.",
-          "pros": [
-            "PreÃ§o acessÃ­vel",
-            "FÃ¡cil manutenÃ§Ã£o",
-            "Ampla disponibilidade"
-          ],
-          "cons": [
-            "Produz mais barulho",
-            "Desgaste maior com o tempo"
-          ],
-          "veredicto": "Ãtima para quem quer comeÃ§ar sem comprometer o orÃ§amento.",
-          "produtos": [
-            {
-              "nome": "Bike ErgomÃ©trica Residencial Movement E200",
-              "link": "https://shopee.com.br/produto-exemplo-2",
-              "descricao": "ResistÃªncia mecÃ¢nica, 8 nÃ­veis, monitor bÃ¡sico, suporta atÃ© 100kg"
-            }
           ]
         }
       ]
