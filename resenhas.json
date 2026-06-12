@@ -1,11 +1,30 @@
 {
   "resenhas": [
     {
-      "id": "1781230197493",
+      "id": "1781230279610",
       "titulo": "asdas",
       "subtitulo": "teste",
       "categoria": "📱 Tech & Gadgets",
       "autor": "João Victor",
+      "fonte": "",
+      "fonteUrl": "",
+      "imagemCapa": "",
+      "data": "2026-06-12T02:11:19.610Z",
+      "publicado": true,
+      "secoes": [
+        {
+          "h2": "teste",
+          "h3": "teste",
+          "texto": "teste"
+        }
+      ]
+    },
+    {
+      "id": "1781230197493",
+      "titulo": "asdas",
+      "subtitulo": "teste",
+      "categoria": "ð± Tech & Gadgets",
+      "autor": "JoÃ£o Victor",
       "fonte": "",
       "fonteUrl": "",
       "imagemCapa": "",
@@ -23,8 +42,8 @@
       "id": "1781230143773",
       "titulo": "teste",
       "subtitulo": "teste",
-      "categoria": "ðï¸ Fitness",
-      "autor": "JoÃ£o Victor",
+      "categoria": "Ã°ÂÂÂÃ¯Â¸Â Fitness",
+      "autor": "JoÃÂ£o Victor",
       "fonte": "",
       "fonteUrl": "",
       "imagemCapa": "",
