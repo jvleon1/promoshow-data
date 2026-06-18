@@ -9,12 +9,19 @@
       "fonte": "",
       "fonteUrl": "",
       "imagemCapa": "",
-      "data": "2026-06-18T02:45:46.159Z",
+      "data": "2026-06-18T02:49:19.048Z",
       "publicado": true,
       "secoes": [
         {
           "h2": "teste2",
-          "texto": "analise certa"
+          "texto": "analise certa",
+          "pros": [
+            "muito boa",
+            "sincero"
+          ],
+          "cons": [
+            "ruim"
+          ]
         }
       ]
     },
