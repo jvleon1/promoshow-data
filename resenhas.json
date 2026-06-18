@@ -5,17 +5,18 @@
       "titulo": "Melhores Bikes Custo Beneficio 2026",
       "subtitulo": "Mecânica vs. Magnética: Qual Bike Ergométrica Escolher?\n\nNa hora de comprar uma bicicleta para treinar em casa, você vai se deparar com dois termos: Resistência Mecânica (ou por Fricção) e Resistência Magnética. Embora elas sirvam para a mesma coisa — te fazer suar —, o funcionamento interno delas muda completamente a sua experiência de treino.",
       "categoria": "🏋️ Fitness",
-      "autor": "Jonen",
+      "autor": "OficialPromoShow",
       "fonte": "Shopee",
       "fonteUrl": "",
-      "imagemCapa": "https://res.cloudinary.com/dnqwzvc4i/image/upload/v1781750453/promoresenhas/hkpyp1k84h8kelu2wfg6.png",
-      "data": "2026-06-18T02:58:45.993Z",
+      "imagemCapa": "https://res.cloudinary.com/dnqwzvc4i/image/upload/v1781793412/promoresenhas/tl1u6gbm60cpuo8w8xbm.jpg",
+      "data": "2026-06-18T14:42:37.951Z",
       "publicado": true,
       "secoes": [
         {
           "h2": "Bicicleta com Resistência Magnética",
           "h3": "Silenciosa e confortável",
           "texto": "Aqui a mágica acontece sem nenhum contato físico. O peso do pedal é controlado por ímãs potentes que se aproximam ou se afastam da roda de inércia. Quanto mais perto os ímãs chegam da roda, mais pesado fica o exercício.\n\n👍 As Vantagens: É totalmente silenciosa, pois não há peças se encostando. A pedalada é extremamente suave, sem trancos, protegendo melhor as articulações. Além disso, a manutenção é quase zero, já que nada se desgasta com o tempo.\n\n\n👎 As Desvantagens: O preço inicial costuma ser mais elevado na comparação com os modelos mecânicos.\n\n\n🎯 Indicada para: Quem mora em apartamento, treina de madrugada ou muito cedo enquanto a família dorme, ou para quem prefere se exercitar assistindo TV sem precisar aumentar o volume no máximo.",
+          "imagem": "https://res.cloudinary.com/dnqwzvc4i/image/upload/v1781793433/promoresenhas/dmfs6jmdfzfte4lrpqhk.png",
           "pros": [
             "Praticamente silenciosa",
             "Pedalada macia e fluida",
@@ -23,6 +24,35 @@
           ],
           "cons": [
             "Investimento inicial maior"
+          ],
+          "produtos": [
+            {
+              "nome": "Bicicleta Ergométrica Spinning Magnética Gallant Elite X",
+              "link": "https://s.shopee.com.br/70Hfl5anDC",
+              "descricao": "Ergométrica Spinning Magnética Roda de Inércia 8kg"
+            }
+          ]
+        },
+        {
+          "h2": "Bicicleta com Resistência Mecânica (Por Fricção)",
+          "h3": "Custo beneficio",
+          "texto": "Bicicleta com Resistência Mecânica (Por Fricção)\n\nEsse sistema funciona como o freio de uma bicicleta comum de rua. Quando você gira o botão para deixar o treino mais pesado, uma pastilha de feltro ou couro é pressionada fisicamente contra a roda, criando um atrito.\n\n👍 As Vantagens: É o sistema mais barato do mercado, tornando a bike bem mais em conta. Além disso, entrega uma sensação \"bruta\" e potente de treino pesado, muito parecida com as bikes de spinning de grandes academias.\n\n👎 As Desvantagens: Como há peças se ralando o tempo todo, ela faz mais barulho (um som de chiado) e as pastilhas sofrem desgaste natural, precisando ser trocadas de tempos em tempos (manutenção).\n\n🎯 Indicada para: Quem tem o orçamento mais apertado, quer um treino muito intenso no estilo spinning profissional e tem um espaço em casa onde o barulho não vá incomodar ninguém.",
+          "imagem": "https://res.cloudinary.com/dnqwzvc4i/image/upload/v1781793526/promoresenhas/bbph7o2rod8lulqqhcdd.png",
+          "pros": [
+            "Mais acessível",
+            "Resistência mais firme"
+          ],
+          "cons": [
+            "Emite som de atrito (chiado)",
+            "Requer troca de pastilhas"
+          ],
+          "veredicto": "É uma ótima opção para os iniciantes",
+          "produtos": [
+            {
+              "nome": "Bike ergométrica Sport",
+              "link": "https://s.shopee.com.br/7Kui71wZx5",
+              "descricao": "Spinning Academia Fitness Profissional"
+            }
           ]
         }
       ]
