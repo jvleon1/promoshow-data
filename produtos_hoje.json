@@ -834,5 +834,27 @@
     "offerLink": "https://s.shopee.com.br/AKYJxD7qsf",
     "nicho": "Casa",
     "timestamp": 1781981784
+  },
+  {
+    "productNameClean": "Kit 3 Cadeados Reforçado 20mm/25mm/30mm",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjcx7gm501du4e",
+    "ratingStar": "4.7",
+    "priceDiscountRate": 41,
+    "price": "22.99",
+    "sales": 636,
+    "offerLink": "https://s.shopee.com.br/AAEwq5kzJo",
+    "nicho": "Casa",
+    "timestamp": 1781982264
+  },
+  {
+    "productNameClean": "Puff Gigante Almofadão 140x20 Sem Enchimento Lançamento",
+    "imageUrl": "https://cf.shopee.com.br/file/f9a6a06efb76da391810e0d7eef1a9ba",
+    "ratingStar": 4.6,
+    "priceDiscountRate": 82,
+    "price": 66.97,
+    "sales": 242,
+    "offerLink": "https://s.shopee.com.br/8pjZNLHEFQ",
+    "nicho": "Casa",
+    "timestamp": 1781982029
   }
 ]
