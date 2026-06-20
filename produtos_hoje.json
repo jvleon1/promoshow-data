@@ -735,5 +735,27 @@
     "offerLink": "https://s.shopee.com.br/9UzG6AFBMC",
     "nicho": "Casa",
     "timestamp": 1781978184
+  },
+  {
+    "productNameClean": "Travesseiro Fibra de Bambu Alto Firme Antialergico 70x50 Original Fabricante",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdvu97g02x368a",
+    "ratingStar": "4.8",
+    "priceDiscountRate": 59,
+    "price": "38.98",
+    "sales": 1506,
+    "offerLink": "https://s.shopee.com.br/2BCfKUQTJq",
+    "nicho": "Casa",
+    "timestamp": 1781979144
+  },
+  {
+    "productNameClean": "Secador Roupas Portátil Eletrico Secador Suspenso Cortina JH",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824id-merhk8li10qsfd",
+    "ratingStar": 4.8,
+    "priceDiscountRate": 35,
+    "price": 129.99,
+    "sales": 695,
+    "offerLink": "https://s.shopee.com.br/8V6fipNH2a",
+    "nicho": "Casa",
+    "timestamp": 1781978429
   }
 ]
