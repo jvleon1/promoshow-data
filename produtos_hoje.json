@@ -790,5 +790,27 @@
     "offerLink": "https://s.shopee.com.br/3g1WOWPmhw",
     "nicho": "Casa",
     "timestamp": 1782241224
+  },
+  {
+    "productNameClean": "Aspirador e Soprador Portátil 5 em 1 Sem Fio...",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825zr-mk1e2yi4bp4x17",
+    "ratingStar": "4.6",
+    "priceDiscountRate": 27,
+    "price": "21.88",
+    "sales": 614,
+    "offerLink": "https://s.shopee.com.br/6VLjOXgER7",
+    "nicho": "Casa",
+    "timestamp": 1782241944
+  },
+  {
+    "productNameClean": "Secador Roupas Portátil Eletrico Secador Suspenso Cortina JH",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824id-merhk8li10qsfd",
+    "ratingStar": 4.8,
+    "priceDiscountRate": 35,
+    "price": 129.99,
+    "sales": 708,
+    "offerLink": "https://s.shopee.com.br/9KfrYOdHrW",
+    "nicho": "Casa",
+    "timestamp": 1782241229
   }
 ]
