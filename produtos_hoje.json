@@ -812,5 +812,27 @@
     "offerLink": "https://s.shopee.com.br/1BKJLMK6HR",
     "nicho": "Casa",
     "timestamp": 1782583224
+  },
+  {
+    "productNameClean": "Puff Redondo Estofado 38x30 Banqueta Para Apoio Dos Pés Decorativa",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m5lqkcmua9hhf2",
+    "ratingStar": "4.7",
+    "priceDiscountRate": 18,
+    "price": "48.89",
+    "sales": 701,
+    "offerLink": "https://s.shopee.com.br/AUryT3odjL",
+    "nicho": "Casa",
+    "timestamp": 1782583704
+  },
+  {
+    "productNameClean": "Secador Roupas Portátil Eletrico Secador Suspenso Cortina JH",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824id-merhk8li10qsfd",
+    "ratingStar": 4.8,
+    "priceDiscountRate": 30,
+    "price": 139.99,
+    "sales": 672,
+    "offerLink": "https://s.shopee.com.br/18KPhIs9k",
+    "nicho": "Casa",
+    "timestamp": 1782583229
   }
 ]
