@@ -1,27 +1,6 @@
 {
   "resenhas": [
     {
-      "id": "1782601060200",
-      "titulo": "teste de postagem",
-      "subtitulo": "teste de postagem",
-      "categoria": "💻 Informática",
-      "autor": "teste de postagem",
-      "fonte": "teste de postagem",
-      "fonteUrl": "",
-      "imagemCapa": "",
-      "data": "2026-06-27T22:57:40.200Z",
-      "publicado": false,
-      "secoes": [
-        {
-          "h2": "teste de postagem",
-          "h3": "teste de postagem",
-          "texto": "teste de postagem",
-          "veredicto": "teste de postagem"
-        }
-      ],
-      "agendadoPara": "2026-06-28T23:00:00.000Z"
-    },
-    {
       "id": "1781750239897",
       "titulo": "Melhores Bikes Custo Beneficio 2026",
       "subtitulo": "Mecânica vs. Magnética: Qual Bike Ergométrica Escolher?\n\nNa hora de comprar uma bicicleta para treinar em casa, você vai se deparar com dois termos: Resistência Mecânica (ou por Fricção) e Resistência Magnética. Embora elas sirvam para a mesma coisa — te fazer suar —, o funcionamento interno delas muda completamente a sua experiência de treino.",
