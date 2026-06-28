@@ -1,6 +1,34 @@
 {
   "resenhas": [
     {
+      "id": "1782622674701",
+      "titulo": "O melhor presente para o dia dos pais de 2026",
+      "subtitulo": "O dia dos pais não pode passar em branco com as 3 opções de presente em 1",
+      "categoria": "💄 Beleza & Estilo",
+      "autor": "OficialPromoShow",
+      "fonte": "Shopee",
+      "fonteUrl": "",
+      "imagemCapa": "https://res.cloudinary.com/dnqwzvc4i/image/upload/v1782622280/promoresenhas/aaxihxkaguobous1xyqy.png",
+      "data": "2026-06-28T04:57:54.701Z",
+      "publicado": false,
+      "secoes": [
+        {
+          "h2": "Chegou a hora de dar um upgrade na rotina dele com o Aparador Elétrico 3 em 1 Kemei",
+          "h3": "Praticidade que os pais amam!",
+          "texto": "3 Aparelhos em 1 Só (Praticidade que os pais amam!)\nOs pais adoram coisas práticas que não complicam a vida. Esse kit vem com 3 cabeças removíveis e super fáceis de trocar (basta girar para encaixar!). Ele funciona como:\n\nBarbeador (Shaver): Para deixar o rosto lisinho, sem usar lâmina tradicional.\n\nCortador de Cabelo/Barba: Ideal para aparar os fios, desenhar o pezinho ou acertar o bigode.\n\nAparador de Pelos de Nariz/Orelha: Aquele cuidado extra com as lâminas certas, sem puxar ou machucar.",
+          "imagem": "https://res.cloudinary.com/dnqwzvc4i/image/upload/v1782622613/promoresenhas/rql1hlexr6jnq2dijrvk.png",
+          "produtos": [
+            {
+              "nome": "Aparador Elétrico 3 em 1 Kemei (Modelo KM-6558)",
+              "link": "https://s.shopee.com.br/6ffGbuqPzQ",
+              "descricao": "3 Cabeças Intercambiáveis (Barba, Cabelo e Nariz)"
+            }
+          ]
+        }
+      ],
+      "agendadoPara": "2026-06-28T16:00:00.000Z"
+    },
+    {
       "id": "1781750239897",
       "titulo": "Melhores Bikes Custo Beneficio 2026",
       "subtitulo": "Mecânica vs. Magnética: Qual Bike Ergométrica Escolher?\n\nNa hora de comprar uma bicicleta para treinar em casa, você vai se deparar com dois termos: Resistência Mecânica (ou por Fricção) e Resistência Magnética. Embora elas sirvam para a mesma coisa — te fazer suar —, o funcionamento interno delas muda completamente a sua experiência de treino.",
