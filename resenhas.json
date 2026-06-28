@@ -10,7 +10,7 @@
       "fonteUrl": "",
       "imagemCapa": "https://res.cloudinary.com/dnqwzvc4i/image/upload/v1782622280/promoresenhas/aaxihxkaguobous1xyqy.png",
       "data": "2026-06-28T04:57:54.701Z",
-      "publicado": false,
+      "publicado": true,
       "secoes": [
         {
           "h2": "Chegou a hora de dar um upgrade na rotina dele com o Aparador Elétrico 3 em 1 Kemei",
@@ -25,8 +25,7 @@
             }
           ]
         }
-      ],
-      "agendadoPara": "2026-06-28T16:00:00.000Z"
+      ]
     },
     {
       "id": "1781750239897",
