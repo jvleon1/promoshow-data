@@ -449,5 +449,27 @@
     "offerLink": "https://s.shopee.com.br/20tWVoinfh",
     "nicho": "Cozinha",
     "timestamp": 1782920664
+  },
+  {
+    "productNameClean": "Micro-ondas Philco PMO30P 28L Limpa Facil Tira Odor 1100W",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjo9ibbxiarq09",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 48,
+    "price": "717.99",
+    "sales": 117,
+    "offerLink": "https://s.shopee.com.br/3qL93p5cfc",
+    "nicho": "Cozinha",
+    "timestamp": 1782921864
+  },
+  {
+    "productNameClean": "Lava Louças Praxis Portátil LLPP Semi-Automática 127V Branca",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m850ox5881ld7a",
+    "ratingStar": 4.8,
+    "priceDiscountRate": 19,
+    "price": 1049.9,
+    "sales": 288,
+    "offerLink": "https://s.shopee.com.br/6pymL6LVfX",
+    "nicho": "Cozinha",
+    "timestamp": 1782921628
   }
 ]
