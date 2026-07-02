@@ -537,5 +537,27 @@
     "offerLink": "https://s.shopee.com.br/6ffNfHdVIv",
     "nicho": "Cozinha",
     "timestamp": 1783010904
+  },
+  {
+    "productNameClean": "Kit 30 Frascos de Vidro Difusor Aromatizador De 30ml...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mnldt8crrj0i17",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 28,
+    "price": "64.97",
+    "sales": 503,
+    "offerLink": "https://s.shopee.com.br/3B5Vddrcp8",
+    "nicho": "Casa",
+    "timestamp": 1783011864
+  },
+  {
+    "productNameClean": "Puff Gigante Almofadão 140x20 Sem Enchimento Lançamento",
+    "imageUrl": "https://cf.shopee.com.br/file/f9a6a06efb76da391810e0d7eef1a9ba",
+    "ratingStar": 4.6,
+    "priceDiscountRate": 82,
+    "price": 66.97,
+    "sales": 253,
+    "offerLink": "https://s.shopee.com.br/3qLCQbHx9M",
+    "nicho": "Casa",
+    "timestamp": 1783011630
   }
 ]
