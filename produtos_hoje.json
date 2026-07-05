@@ -691,5 +691,27 @@
     "offerLink": "https://s.shopee.com.br/8KngdedvK9",
     "nicho": "Casa",
     "timestamp": 1783274424
+  },
+  {
+    "productNameClean": "Lousa Branca Quadro Branco 60x40cm + 4 Pincel Marcadores +...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lyce1175fkph30",
+    "ratingStar": "4.8",
+    "priceDiscountRate": 30,
+    "price": "37.99",
+    "sales": 429,
+    "offerLink": "https://s.shopee.com.br/3qLHDoVvzM",
+    "nicho": "Casa",
+    "timestamp": 1783274904
+  },
+  {
+    "productNameClean": "Puff Gigante Almofadão 140x20 Sem Enchimento Lançamento",
+    "imageUrl": "https://cf.shopee.com.br/file/f9a6a06efb76da391810e0d7eef1a9ba",
+    "ratingStar": 4.6,
+    "priceDiscountRate": 82,
+    "price": 66.97,
+    "sales": 291,
+    "offerLink": "https://s.shopee.com.br/3LOzD4EuaJ",
+    "nicho": "Casa",
+    "timestamp": 1783274429
   }
 ]
