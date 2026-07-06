@@ -647,5 +647,27 @@
     "offerLink": "https://s.shopee.com.br/1BKXgctZFB",
     "nicho": "Casa",
     "timestamp": 1783360169
+  },
+  {
+    "productNameClean": "Ferro de Passar Roupa a Vapor e Seco Cerâmica Antiaderente",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mk9wsejk8z5t87",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 44,
+    "price": "74.99",
+    "sales": 194,
+    "offerLink": "https://s.shopee.com.br/9zvwAJN4C7",
+    "nicho": "Casa",
+    "timestamp": 1783361065
+  },
+  {
+    "productNameClean": "Puff Gigante Almofadão 140x20 Sem Enchimento Lançamento",
+    "imageUrl": "https://cf.shopee.com.br/file/f9a6a06efb76da391810e0d7eef1a9ba",
+    "ratingStar": 4.6,
+    "priceDiscountRate": 82,
+    "price": 66.97,
+    "sales": 302,
+    "offerLink": "https://s.shopee.com.br/50XGGQY5SR",
+    "nicho": "Casa",
+    "timestamp": 1783360829
   }
 ]
