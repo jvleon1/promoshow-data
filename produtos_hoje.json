@@ -471,5 +471,27 @@
     "offerLink": "https://s.shopee.com.br/6AjGfdDj3z",
     "nicho": "Cozinha",
     "timestamp": 1783524264
+  },
+  {
+    "productNameClean": "Micro-ondas Mondial Mo 01 21 B Potencia 1200w 60hz 21...",
+    "imageUrl": "https://cf.shopee.com.br/file/f2349a582dc413376067d3fba7ce75b4",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 24,
+    "price": "567.99",
+    "sales": 1890,
+    "offerLink": "https://s.shopee.com.br/7VEeI0MJVt",
+    "nicho": "Cozinha",
+    "timestamp": 1783525944
+  },
+  {
+    "productNameClean": "Cooktop de Indução Britânia Portátil Painel Touch BCTE10A",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82584-mqdov484u03lc3",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 32,
+    "price": 209.9,
+    "sales": 106,
+    "offerLink": "https://s.shopee.com.br/BS3YKRa3O",
+    "nicho": "Cozinha",
+    "timestamp": 1783525768
   }
 ]
