@@ -383,5 +383,27 @@
     "offerLink": "https://s.shopee.com.br/2LWZeSJjtn",
     "nicho": "Cozinha",
     "timestamp": 1783608024
+  },
+  {
+    "productNameClean": "Micro-ondas Mondial 21L Branco 110V",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lvnhoahr252k08",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 20,
+    "price": "544.55",
+    "sales": 132,
+    "offerLink": "https://s.shopee.com.br/AKYrBywBHW",
+    "nicho": "Cozinha",
+    "timestamp": 1783608744
+  },
+  {
+    "productNameClean": "Cooktop de Indução Britânia Portátil Painel Touch BCTE10A",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82584-mqdov484u03lc3",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 32,
+    "price": 209.9,
+    "sales": 112,
+    "offerLink": "https://s.shopee.com.br/8AUMbniwne",
+    "nicho": "Cozinha",
+    "timestamp": 1783608569
   }
 ]
