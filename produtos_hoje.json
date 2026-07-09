@@ -911,5 +911,27 @@
     "offerLink": "https://s.shopee.com.br/6VM8m0BROs",
     "nicho": "Casa",
     "timestamp": 1783626264
+  },
+  {
+    "productNameClean": "Cortina PREMIUM 4,00 x 2,50 - Ideal para Decoração, Quarto...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mizw7alpdameef",
+    "ratingStar": "4.5",
+    "priceDiscountRate": 25,
+    "price": "44.92",
+    "sales": 2269,
+    "offerLink": "https://s.shopee.com.br/2g9QDVV4FB",
+    "nicho": "Casa",
+    "timestamp": 1783626744
+  },
+  {
+    "productNameClean": "Puff Gigante Almofadão 140x20 Sem Enchimento Lançamento",
+    "imageUrl": "https://cf.shopee.com.br/file/f9a6a06efb76da391810e0d7eef1a9ba",
+    "ratingStar": 4.6,
+    "priceDiscountRate": 82,
+    "price": 66.97,
+    "sales": 311,
+    "offerLink": "https://s.shopee.com.br/1VxT09XRcV",
+    "nicho": "Casa",
+    "timestamp": 1783626569
   }
 ]
