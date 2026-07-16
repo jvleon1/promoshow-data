@@ -394,5 +394,27 @@
     "offerLink": "https://s.shopee.com.br/3LPI1ACLQq",
     "nicho": "Cozinha",
     "timestamp": 1784213377
+  },
+  {
+    "productNameClean": "Mini Máquina de Bolo e Pipoca sem Óleo Portátil 110V",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdx1-mc30hsovpiku84",
+    "ratingStar": "4.8",
+    "priceDiscountRate": 60,
+    "price": "59.66",
+    "sales": 109,
+    "offerLink": "https://s.shopee.com.br/8pkEaYFaei",
+    "nicho": "Cozinha",
+    "timestamp": 1784214498
+  },
+  {
+    "productNameClean": "Lava Louças Praxis Portátil LLPP Semi-Automática 127V Branca",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m850ox5881ld7a",
+    "ratingStar": 4.8,
+    "priceDiscountRate": 19,
+    "price": 1049.9,
+    "sales": 197,
+    "offerLink": "https://s.shopee.com.br/9zwByAh2cD",
+    "nicho": "Cozinha",
+    "timestamp": 1784214038
   }
 ]
