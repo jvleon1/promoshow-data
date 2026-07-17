@@ -823,5 +823,27 @@
     "offerLink": "https://s.shopee.com.br/7KvSdWBzAe",
     "nicho": "Casa",
     "timestamp": 1784314820
+  },
+  {
+    "productNameClean": "Cômoda Industrial 8 Gavetas P/ Quarto Casal Design Moderno Adulto...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mnoidzc15zia0a",
+    "ratingStar": "4.4",
+    "priceDiscountRate": 30,
+    "price": "349.99",
+    "sales": 951,
+    "offerLink": "https://s.shopee.com.br/4fuhTzaCKo",
+    "nicho": "Casa",
+    "timestamp": 1784315058
+  },
+  {
+    "productNameClean": "Máquina de Lavar Twin Tub Praxis 10kg 2 em 1...",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824hf-mfobvevqv4soc6",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 20,
+    "price": 1107.9,
+    "sales": 290,
+    "offerLink": "https://s.shopee.com.br/4fufsqtQAb",
+    "nicho": "Casa",
+    "timestamp": 1784314838
   }
 ]
