@@ -1,6 +1,50 @@
 {
   "resenhas": [
     {
+      "id": "1784256151295",
+      "titulo": "Espremedor Elétrico Recarregável: suco natural na hora, sem esforço e sem bagunça",
+      "subtitulo": "O espremedor USB que faz suco de laranja e limão em segundos e ainda separa o bagaço sozinho.",
+      "categoria": "🍳 Cozinha",
+      "autor": "OficialPromoShow",
+      "fonte": "Shopee",
+      "fonteUrl": "https://shopee.com.br/Espremedor-El%C3%A9trico-Laranja-Lim%C3%A3o-Frutas-Fazer-Sucos-Recarreg%C3%A1vel-Usb-Cozinha-i.807597901.23497309877",
+      "imagemCapa": "https://res.cloudinary.com/dnqwzvc4i/image/upload/v1784256127/promoresenhas/d3yvmdj3qvyggntszqtm.webp",
+      "data": "2026-07-17T02:42:31.295Z",
+      "publicado": true,
+      "secoes": [
+        {
+          "h2": "Sabe aquela preguiça de espremer laranja na mão?",
+          "texto": "Todo mundo quer o suco natural do café da manhã, mas ninguém quer a parte chata: espremer fruta na mão, sujar meia cozinha e ainda lavar um monte de peça depois. No fim, a gente acaba pegando o suquinho de caixinha mesmo.\nEsse espremedor elétrico apareceu justamente pra matar essa preguiça. Você corta a fruta no meio, encaixa, aperta um botão e ele faz o trabalho todo sozinho enquanto você faz outra coisa."
+        },
+        {
+          "h2": "Na prática: o que ele entrega no dia a dia",
+          "h3": "Suco fresco em segundos, sem fio e sem drama",
+          "texto": "A graça dele é ser recarregável por USB: você usa em qualquer canto da cozinha (ou até leva pra viagem) sem depender de tomada por perto. Ele gira sozinho, extrai o suco e separa o bagaço num compartimento, então o que cai no copo já vem limpo.\nE na hora de lavar, desmonta fácil — nada daquele monte de peça encaixada que dá raiva de limpar.",
+          "pros": [
+            "Faz o suco sozinho só apertando um botão",
+            "Recarregável por USB, usa em qualquer lugar sem tomada",
+            "Separa o bagaço automaticamente",
+            "Desmonta fácil e é rápido de lavar",
+            "Compacto, não toma conta da bancada"
+          ],
+          "cons": [
+            "Feito pra cítricos (laranja, limão, lima) — não serve pra frutas duras nem folhas",
+            "Faz cerca de um copo por vez, não é pra grande volume",
+            "Precisa recarregar de vez em quando",
+            "Corpo de plástico"
+          ],
+          "veredicto": "Se você curte suco natural mas foge do trabalho de espremer e lavar, ele resolve bonito. Perfeito pra quem quer praticidade no café da manhã do dia a dia.",
+          "produtos": [
+            {
+              "nome": "Espremedor Elétrico de Frutas Recarregável USB",
+              "link": "https://s.shopee.com.br/AKZ38uXJzu",
+              "descricao": "Suco de laranja e limão na hora, sem fio e sem bagunça."
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "1782622674701",
       "titulo": "O melhor presente para o dia dos pais de 2026",
       "subtitulo": "O dia dos pais não pode passar em branco com as 3 opções de presente em 1",
