@@ -1,6 +1,54 @@
 {
   "resenhas": [
     {
+      "id": "1784258599015",
+      "titulo": "Robô Aspirador Vacuum H50: aspira, passa pano e se limpa sozinho",
+      "subtitulo": "Conheça o robô aspirador H50 com lavagem automática e estação autolimpante: sucção de 10.000Pa pra deixar o chão limpo sem você levantar da cadeira.",
+      "categoria": "🏠 Casa & Decoração",
+      "autor": "OficialPromoShow",
+      "fonte": "Shopee",
+      "fonteUrl": "https://shopee.com.br/Rob%C3%B4-aspirador-Vacuum-H50-Lavagem-autom%C3%A1tica-Esta%C3%A7%C3%A3o-autolimpante-suc%C3%A7%C3%A3o-potente-10.000Pa.-i.1109356002.58209954387?extraParams=%7B%22display_model_id%22%3A238805847927%2C%22model_selection_logic%22%3A3%7D",
+      "imagemCapa": "https://res.cloudinary.com/dnqwzvc4i/image/upload/v1784258495/promoresenhas/oahpruevetgpxcflb8vd.webp",
+      "data": "2026-07-17T03:23:19.015Z",
+      "publicado": false,
+      "secoes": [
+        {
+          "h2": "Você ainda perde meia hora todo dia varrendo e passando pano?",
+          "texto": "Poeira que volta no dia seguinte. Pelo de pet grudado no rodapé. Aquela sensação de que você acabou de limpar e o chão já tá sujo de novo. Se essa é a sua rotina, você já sabe: faxina de chão é a tarefa que nunca termina.\nÉ aí que entra o robô aspirador Vacuum H50. A ideia é simples: ele faz o trabalho chato do dia a dia enquanto você cuida do resto (ou de nada). Aspira, passa pano e, quando termina, ainda se limpa sozinho na própria estação."
+        },
+        {
+          "h2": "Na prática: o que o robô aspirador H50 entrega no dia a dia",
+          "h3": "Robô aspirador com lavagem automática e estação autolimpante",
+          "texto": "O ponto forte é a sucção de 10.000Pa. Na prática, isso é força pra puxar poeira fina, migalha de cozinha e pelo de animal — inclusive aquele que fica preso nas fibras do tapete mais baixo.\nA lavagem automática é o que muda o jogo pra quem odeia passar pano. Ele aspira e umedece o chão na mesma passada, então piso frio e porcelanato ficam com cara de recém-limpos.\nE a parte que mais impressiona é a estação autolimpante. Em vez de você lavar o pano encardido na mão, a própria base cuida disso. Você programa, ele trabalha, volta pra base e se resolve. É o mais perto de terceirizar a faxina que dá pra ter sem contratar ninguém.",
+          "imagem": "https://res.cloudinary.com/dnqwzvc4i/image/upload/v1784258560/promoresenhas/nmmuyaxy4bxlntnbgfmv.webp",
+          "pros": [
+            "Sucção de 10.000Pa dá conta de poeira fina, migalha e pelo de pet",
+            "Aspira e passa pano na mesma passada — dois trabalhos em um",
+            "Estação autolimpante cuida do pano sozinha, com menos contato com sujeira",
+            "Programa e esquece: mantém a casa em dia sem esforço diário"
+          ],
+          "cons": [
+            "Como todo robô, sofre com fios soltos e objetos espalhados no chão — pede um pré-arrumo",
+            "Tapete muito alto e felpudo ainda é o calcanhar de aquiles desse tipo de aparelho",
+            "A estação precisa de um cantinho fixo com tomada por perto"
+          ],
+          "veredicto": "Se o seu problema é manter o chão limpo no dia a dia sem gastar tempo com isso, o H50 resolve com folga — ainda mais com a estação autolimpante tirando de você a parte mais chata. Vale dar uma olhada nos detalhes e no preço atual antes que a promoção vire.",
+          "produtos": [
+            {
+              "nome": "Robô Aspirador Vacuum H50",
+              "link": "https://s.shopee.com.br/5q6dpPcAbc",
+              "descricao": "Aspira, passa pano e se limpa sozinho com sucção de 10.000Pa."
+            }
+          ]
+        },
+        {
+          "h2": "Pra quem vale (e pra quem talvez não)",
+          "texto": "Vale muito se você tem pet, tem alergia a poeira, mora em casa com bastante piso liso ou simplesmente não aguenta mais a rotina de varrer e passar pano. Nesses casos, ele economiza um tempo real toda semana.\nSe a sua casa é toda de tapete alto e felpudo, ou você busca limpeza pesada de cantos e escadas, aí ele vira um complemento, não um substituto — nenhum robô faz faxina pesada sozinho ainda.\nMas pra manutenção do dia a dia, é um dos jeitos mais práticos de manter o chão sempre apresentável sem levantar da cadeira."
+        }
+      ],
+      "agendadoPara": "2026-07-17T18:00:00.000Z"
+    },
+    {
       "id": "1784256151295",
       "titulo": "Espremedor Elétrico Recarregável: suco natural na hora, sem esforço e sem bagunça",
       "subtitulo": "O espremedor USB que faz suco de laranja e limão em segundos e ainda separa o bagaço sozinho.",
