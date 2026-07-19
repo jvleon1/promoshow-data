@@ -295,5 +295,27 @@
     "offerLink": "https://s.shopee.com.br/AAFfOQjwpg",
     "nicho": "Cozinha",
     "timestamp": 1784469620
+  },
+  {
+    "productNameClean": "Panela de Pressão 7 litros Polida Fortlar",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m3owm461ccvse5",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 25,
+    "price": "79.99",
+    "sales": 1527,
+    "offerLink": "https://s.shopee.com.br/9pcownUdT6",
+    "nicho": "Cozinha",
+    "timestamp": 1784469858
+  },
+  {
+    "productNameClean": "Lava Louças Praxis Portátil LLPP Semi-Automática 127V Branca",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m850ox5881ld7a",
+    "ratingStar": 4.8,
+    "priceDiscountRate": 19,
+    "price": 1049.9,
+    "sales": 185,
+    "offerLink": "https://s.shopee.com.br/70IdWJmd16",
+    "nicho": "Cozinha",
+    "timestamp": 1784469637
   }
 ]
