@@ -922,5 +922,27 @@
     "offerLink": "https://s.shopee.com.br/8pkMghEzFl",
     "nicho": "Casa",
     "timestamp": 1784662578
+  },
+  {
+    "productNameClean": "Kit 03, 05 ou 10 Tapete Piso Premium Toalhinha...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lh-moy4yiilaqyu92",
+    "ratingStar": "4.6",
+    "priceDiscountRate": 51,
+    "price": "27.99",
+    "sales": 1753,
+    "offerLink": "https://s.shopee.com.br/3qLgvaqVU2",
+    "nicho": "Casa",
+    "timestamp": 1784663778
+  },
+  {
+    "productNameClean": "Secador Roupas Portátil Eletrico Secador Suspenso Cortina JH",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824id-merhk8li10qsfd",
+    "ratingStar": 4.8,
+    "priceDiscountRate": 35,
+    "price": 129.99,
+    "sales": 235,
+    "offerLink": "https://s.shopee.com.br/40f77Rb3lD",
+    "nicho": "Casa",
+    "timestamp": 1784663378
   }
 ]
