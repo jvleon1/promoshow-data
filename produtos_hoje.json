@@ -724,5 +724,27 @@
     "offerLink": "https://s.shopee.com.br/80BKXyyiP4",
     "nicho": "Casa",
     "timestamp": 1785001777
+  },
+  {
+    "productNameClean": "Aspirador de Pó e Água WAP GTW 15 14,8L 1700W...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mc6j4pxu7nph4a",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 54,
+    "price": "381.21",
+    "sales": 349,
+    "offerLink": "https://s.shopee.com.br/2VqPbq6E93",
+    "nicho": "Casa",
+    "timestamp": 1785003378
+  },
+  {
+    "productNameClean": "Secador Roupas Portátil Eletrico Secador Suspenso Cortina JH",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824id-merhk8li10qsfd",
+    "ratingStar": 4.8,
+    "priceDiscountRate": 35,
+    "price": 129.99,
+    "sales": 175,
+    "offerLink": "https://s.shopee.com.br/gOlPOZsAi",
+    "nicho": "Casa",
+    "timestamp": 1785002438
   }
 ]
