@@ -372,5 +372,27 @@
     "offerLink": "https://s.shopee.com.br/90416YEBmJ",
     "nicho": "Cozinha",
     "timestamp": 1785423420
+  },
+  {
+    "productNameClean": "Micro-ondas Mondial MO-02-34-B 34L Aço Galvanizado 1400W",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhi162joa0ar5a",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 53,
+    "price": "687.99",
+    "sales": 126,
+    "offerLink": "https://s.shopee.com.br/111jawum1O",
+    "nicho": "Cozinha",
+    "timestamp": 1785424382
+  },
+  {
+    "productNameClean": "Lava Louças Praxis Portátil LLPP Semi-Automática 127V Branca",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m850ox5881ld7a",
+    "ratingStar": 4.8,
+    "priceDiscountRate": 15,
+    "price": 1099.9,
+    "sales": 104,
+    "offerLink": "https://s.shopee.com.br/1Vy0B1IgBU",
+    "nicho": "Cozinha",
+    "timestamp": 1785423638
   }
 ]
