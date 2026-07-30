@@ -251,5 +251,27 @@
     "offerLink": "https://s.shopee.com.br/7VFDEZjBY6",
     "nicho": "Ferramentas",
     "timestamp": 1785418860
+  },
+  {
+    "productNameClean": "Frigideira Alta Funda 18 Cm Antiaderente C/ Tampa Vidro",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m5x7t5rg9yth03",
+    "ratingStar": "4.6",
+    "priceDiscountRate": 16,
+    "price": "35.49",
+    "sales": 298,
+    "offerLink": "https://s.shopee.com.br/2qTNhNAc4C",
+    "nicho": "Cozinha",
+    "timestamp": 1785420060
+  },
+  {
+    "productNameClean": "Cooktop de Indução Britânia Portátil Painel Touch BCTE10A",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82590-mr67po597kea6d",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 39,
+    "price": 189.9,
+    "sales": 248,
+    "offerLink": "https://s.shopee.com.br/5fnZ4YZttA",
+    "nicho": "Cozinha",
+    "timestamp": 1785420038
   }
 ]
