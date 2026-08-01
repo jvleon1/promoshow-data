@@ -570,5 +570,27 @@
     "offerLink": "https://s.shopee.com.br/2VqagLyNyd",
     "nicho": "Cozinha",
     "timestamp": 1785603180
+  },
+  {
+    "productNameClean": "Cortina Sala e Quarto Linho com Forro Microfibra Premium...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mnrg9mz3ml8gbb",
+    "ratingStar": "4.7",
+    "priceDiscountRate": 23,
+    "price": "160.99",
+    "sales": 2522,
+    "offerLink": "https://s.shopee.com.br/W5WJE9rfQ",
+    "nicho": "Casa",
+    "timestamp": 1785603661
+  },
+  {
+    "productNameClean": "Ventilador de Teto LED 60W 80W Lâmpada E27 Controle Remoto...",
+    "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mkixsca7ixaacf",
+    "ratingStar": 4.8,
+    "priceDiscountRate": 54,
+    "price": 59.9,
+    "sales": 785,
+    "offerLink": "https://s.shopee.com.br/6Ajt3cJpZP",
+    "nicho": "Casa",
+    "timestamp": 1785603637
   }
 ]
