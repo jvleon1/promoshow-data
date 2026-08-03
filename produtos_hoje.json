@@ -526,5 +526,27 @@
     "offerLink": "https://s.shopee.com.br/BSj67aPPh",
     "nicho": "Cozinha",
     "timestamp": 1785776221
+  },
+  {
+    "productNameClean": "Agua Perfumada Aromatizador de Ambiente Home Spray para Tecidos...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6790ksk4kvm62",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 63,
+    "price": "25.9",
+    "sales": 445,
+    "offerLink": "https://s.shopee.com.br/3qM1T8OAyl",
+    "nicho": "Casa",
+    "timestamp": 1785776461
+  },
+  {
+    "productNameClean": "Puff Gigante Almofadão 140x20 Sem Enchimento Lançamento",
+    "imageUrl": "https://cf.shopee.com.br/file/f9a6a06efb76da391810e0d7eef1a9ba",
+    "ratingStar": 4.6,
+    "priceDiscountRate": 82,
+    "price": 66.97,
+    "sales": 365,
+    "offerLink": "https://s.shopee.com.br/6VMjZiTBTM",
+    "nicho": "Casa",
+    "timestamp": 1785776438
   }
 ]
