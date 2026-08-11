@@ -1120,5 +1120,27 @@
     "offerLink": "https://s.shopee.com.br/1VyJdEZWnF",
     "nicho": "Casa",
     "timestamp": 1786477500
+  },
+  {
+    "productNameClean": "Tapete Sala Felpudo 2,00 X 1,50 / 1,50 X 1,00...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mffcj3zv78xx82",
+    "ratingStar": "4.6",
+    "priceDiscountRate": 52,
+    "price": "25.9",
+    "sales": 8027,
+    "offerLink": "https://s.shopee.com.br/LmMFdhyIV",
+    "nicho": "Casa",
+    "timestamp": 1786477980
+  },
+  {
+    "productNameClean": "Aspirador de Pó Para Casa Robô Inteligente Com Sensores Anti...",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwh-lxr9gcah5u3jd7",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 46,
+    "price": 539.99,
+    "sales": 1345,
+    "offerLink": "https://s.shopee.com.br/5VUSOuC5Fj",
+    "nicho": "Casa",
+    "timestamp": 1786477778
   }
 ]
