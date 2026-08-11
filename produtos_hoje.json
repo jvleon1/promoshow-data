@@ -1010,5 +1010,27 @@
     "offerLink": "https://s.shopee.com.br/9V0b5Xa1Cd",
     "nicho": "Casa",
     "timestamp": 1786473661
+  },
+  {
+    "productNameClean": "Armário Sapateira Safira 4 Portas",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m32drj3cykgj44",
+    "ratingStar": "4.8",
+    "priceDiscountRate": 22,
+    "price": "239.91",
+    "sales": 1020,
+    "offerLink": "https://s.shopee.com.br/904KVRhzfP",
+    "nicho": "Casa",
+    "timestamp": 1786474381
+  },
+  {
+    "productNameClean": "Puff Gigante Almofadão 140x20 Sem Enchimento Lançamento",
+    "imageUrl": "https://cf.shopee.com.br/file/f9a6a06efb76da391810e0d7eef1a9ba",
+    "ratingStar": 4.6,
+    "priceDiscountRate": 82,
+    "price": 66.97,
+    "sales": 253,
+    "offerLink": "https://s.shopee.com.br/7fYwulb7r4",
+    "nicho": "Casa",
+    "timestamp": 1786474178
   }
 ]
