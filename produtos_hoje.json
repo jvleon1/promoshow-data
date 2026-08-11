@@ -768,5 +768,27 @@
     "offerLink": "https://s.shopee.com.br/4fvLDW8qt6",
     "nicho": "Cozinha",
     "timestamp": 1786467421
+  },
+  {
+    "productNameClean": "Sofá Retrátil Reclinável 2,00m Essence. Velusoft Cama inBox",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdvv-mbqrxw6bfhjh38",
+    "ratingStar": "4.8",
+    "priceDiscountRate": 37,
+    "price": "1158.9",
+    "sales": 255,
+    "offerLink": "https://s.shopee.com.br/1qb9qrIxwk",
+    "nicho": "Casa",
+    "timestamp": 1786467901
+  },
+  {
+    "productNameClean": "Luminária Capivara PLA Luz Noturna Para Dormir",
+    "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m6fb1rqeym1o24",
+    "ratingStar": 4.7,
+    "priceDiscountRate": 29,
+    "price": 17.9,
+    "sales": 132,
+    "offerLink": "https://s.shopee.com.br/5LB20zdZuH",
+    "nicho": "Casa",
+    "timestamp": 1786467638
   }
 ]
