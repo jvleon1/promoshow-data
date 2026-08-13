@@ -647,5 +647,27 @@
     "offerLink": "https://s.shopee.com.br/9ANnhRlTY3",
     "nicho": "Cozinha",
     "timestamp": 1786636620
+  },
+  {
+    "productNameClean": "Garrafa Térmica 1 Litro Inox com Termômetro Digital LED",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823pf-mou2kf5epczkb6",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 15,
+    "price": "49.9",
+    "sales": 668,
+    "offerLink": "https://s.shopee.com.br/8fRX7cvFI4",
+    "nicho": "Cozinha",
+    "timestamp": 1786637580
+  },
+  {
+    "productNameClean": "Cooktop de Indução Britânia Portátil Painel Touch BCTE10A",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82590-mr67po597kea6d",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 39,
+    "price": 189.9,
+    "sales": 324,
+    "offerLink": "https://s.shopee.com.br/6L3cKUYGi9",
+    "nicho": "Cozinha",
+    "timestamp": 1786636838
   }
 ]
