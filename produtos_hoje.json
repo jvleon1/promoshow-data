@@ -1120,5 +1120,27 @@
     "offerLink": "https://s.shopee.com.br/AAGL9DVoQ4",
     "nicho": "Casa",
     "timestamp": 1786650540
+  },
+  {
+    "productNameClean": "Creme Modelador Forte #todecacho Cachos dos Sonhos 500ml",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825as-mfufr0xpu32i04",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 17,
+    "price": "21",
+    "sales": 6336,
+    "offerLink": "https://s.shopee.com.br/5VUVbjvNPb",
+    "nicho": "Beleza_e_Estilo",
+    "timestamp": 1786651501
+  },
+  {
+    "productNameClean": "Ventilador de Teto LED 60W 80W Lâmpada E27 Controle Remoto...",
+    "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mkixsca7ixaacf",
+    "ratingStar": 4.8,
+    "priceDiscountRate": 54,
+    "price": 59.9,
+    "sales": 484,
+    "offerLink": "https://s.shopee.com.br/5fnvmzd07Y",
+    "nicho": "Casa",
+    "timestamp": 1786650578
   }
 ]
