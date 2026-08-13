@@ -493,5 +493,27 @@
     "offerLink": "https://s.shopee.com.br/7fYzovCkDa",
     "nicho": "Cozinha",
     "timestamp": 1786631581
+  },
+  {
+    "productNameClean": "Panela Elétrica de Arroz 5 xícaras 1L - Com legumeira...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mmkqxxiqktfk35",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 39,
+    "price": "147.05",
+    "sales": 137,
+    "offerLink": "https://s.shopee.com.br/40fhT0WE1b",
+    "nicho": "Cozinha",
+    "timestamp": 1786632300
+  },
+  {
+    "productNameClean": "Multiprocessador 5 em 1 Mondial TurboChef 1000W 127V",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-823rh-mpaqlwfuy3ggae",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 11,
+    "price": 317.99,
+    "sales": 707,
+    "offerLink": "https://s.shopee.com.br/6AkC2RKJor",
+    "nicho": "Cozinha",
+    "timestamp": 1786631820
   }
 ]
