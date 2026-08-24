@@ -790,5 +790,27 @@
     "offerLink": "https://s.shopee.com.br/9KhVVfdqaJ",
     "nicho": "Cozinha",
     "timestamp": 1787590621
+  },
+  {
+    "productNameClean": "Ventilador de Teto com Luz para Pequenos Espaços Controle Remoto...",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdx9-mc00laq3j4sp99",
+    "ratingStar": "4.8",
+    "priceDiscountRate": 52,
+    "price": "55.77",
+    "sales": 3133,
+    "offerLink": "https://s.shopee.com.br/9fKLupga23",
+    "nicho": "Casa",
+    "timestamp": 1787591101
+  },
+  {
+    "productNameClean": "Aspirador de Pó Para Casa Robô Inteligente Com Sensores Anti...",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwh-lxr9gcah5u3jd7",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 49,
+    "price": 512.99,
+    "sales": 1257,
+    "offerLink": "https://s.shopee.com.br/gPVb6UoIa",
+    "nicho": "Casa",
+    "timestamp": 1787590838
   }
 ]
