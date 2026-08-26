@@ -746,5 +746,27 @@
     "offerLink": "https://s.shopee.com.br/8fRruE7jKg",
     "nicho": "Cozinha",
     "timestamp": 1787763420
+  },
+  {
+    "productNameClean": "Kit Cabides Veludo De Roupa Cinza/Preto Antideslizante Slim Adulto",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mak7129yu7bj23",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 59,
+    "price": "44.88",
+    "sales": 1338,
+    "offerLink": "https://s.shopee.com.br/5foGKzL11t",
+    "nicho": "Casa",
+    "timestamp": 1787763661
+  },
+  {
+    "productNameClean": "Luminária Capivara PLA Luz Noturna Para Dormir",
+    "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m6fb1rqeym1o24",
+    "ratingStar": 4.7,
+    "priceDiscountRate": 29,
+    "price": 17.9,
+    "sales": 152,
+    "offerLink": "https://s.shopee.com.br/112QmOCr2w",
+    "nicho": "Casa",
+    "timestamp": 1787763638
   }
 ]
