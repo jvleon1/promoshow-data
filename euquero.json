@@ -1,0 +1,13 @@
+{
+  "produtos": [
+    {
+      "id": "fone-kz",
+      "nome": "Fone KZ",
+      "destaque": "",
+      "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-8258u-mra7ft4ot6vaac@resize_w450_nl.webp",
+      "link": "https://s.shopee.com.br/8fRsgrv15y",
+      "preco": 50.9,
+      "precoDe": 0
+    }
+  ]
+}
