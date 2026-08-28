@@ -658,5 +658,27 @@
     "offerLink": "https://s.shopee.com.br/2LXpujQDzQ",
     "nicho": "Cozinha",
     "timestamp": 1787932140
+  },
+  {
+    "productNameClean": "Descalcificante P/ Máquina de Café Pronto pra uso - Philips...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfk692w7qbk442",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 52,
+    "price": "29.8",
+    "sales": 1183,
+    "offerLink": "https://s.shopee.com.br/8fRv1c45cV",
+    "nicho": "Cozinha",
+    "timestamp": 1787932381
+  },
+  {
+    "productNameClean": "Cooktop de Indução Britânia Portátil Painel Touch BCTE10A",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259k-msfq8i7johzc4f",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 32,
+    "price": 209.9,
+    "sales": 342,
+    "offerLink": "https://s.shopee.com.br/9fKSDDjwJl",
+    "nicho": "Cozinha",
+    "timestamp": 1787932177
   }
 ]
