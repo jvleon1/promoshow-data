@@ -1010,5 +1010,27 @@
     "offerLink": "https://s.shopee.com.br/9fKU0QasHQ",
     "nicho": "Casa",
     "timestamp": 1788029340
+  },
+  {
+    "productNameClean": "Kit C/4 e C/2 Travesseiros Toque Pluma de Ganso 50x70cm...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mik9vka3ow76b9",
+    "ratingStar": "4.7",
+    "priceDiscountRate": 67,
+    "price": "29.9",
+    "sales": 1551,
+    "offerLink": "https://s.shopee.com.br/6VNSF9qrZn",
+    "nicho": "Casa",
+    "timestamp": 1788029820
+  },
+  {
+    "productNameClean": "Luminária Capivara PLA Luz Noturna Para Dormir",
+    "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m6fb1rqeym1o24",
+    "ratingStar": 4.7,
+    "priceDiscountRate": 29,
+    "price": 17.9,
+    "sales": 151,
+    "offerLink": "https://s.shopee.com.br/1qbaxhakjG",
+    "nicho": "Casa",
+    "timestamp": 1788029378
   }
 ]
