@@ -1,5 +1,19 @@
 [
   {
+    "id": "ali_938478",
+    "loja": "Mercado Livre",
+    "fonte": "Meli",
+    "descricao": "Camas, Colchões e Acessórios",
+    "desconto": "15% OFF",
+    "codigo": "#OPSHOWDECORACAO",
+    "link": "https://lista.mercadolivre.com.br/_Container_pega-mais-15off-new-seller-1786887181",
+    "categoria": "Casa & Decoração",
+    "logo": "https://http2.mlstatic.com/static/org-img/homesnw/mercado-libre.png",
+    "validade": "2026-09-17",
+    "internacional": false,
+    "ativo": true
+  },
+  {
     "id": 1,
     "loja": "AliExpress",
     "logo": "https://raw.githubusercontent.com/jvleon1/promoshow-data/main/logos/ali-express-seeklogo.png",
