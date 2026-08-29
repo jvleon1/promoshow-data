@@ -1032,5 +1032,27 @@
     "offerLink": "https://s.shopee.com.br/1qbaxhakjG",
     "nicho": "Casa",
     "timestamp": 1788029378
+  },
+  {
+    "productNameClean": "Tapete Sala 2,00 x 2,50 / 2,00 x 1,50...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lz-mlp9kpqlj37q06",
+    "ratingStar": "4.5",
+    "priceDiscountRate": 32,
+    "price": "34.9",
+    "sales": 3007,
+    "offerLink": "https://s.shopee.com.br/5As4fX1WuN",
+    "nicho": "Casa",
+    "timestamp": 1788030540
+  },
+  {
+    "productNameClean": "Ventilador de Teto LED 60W 80W Lâmpada E27 Controle Remoto...",
+    "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mkixsca7ixaacf",
+    "ratingStar": 4.8,
+    "priceDiscountRate": 54,
+    "price": 59.9,
+    "sales": 323,
+    "offerLink": "https://s.shopee.com.br/9fKSLSkNTZ",
+    "nicho": "Casa",
+    "timestamp": 1788030038
   }
 ]
