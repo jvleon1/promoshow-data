@@ -65,19 +65,5 @@
     "validade": "2026-08-26T20:59:00",
     "ativo": true,
     "internacional": true
-  },
-  {
-    "id": "ali_938477",
-    "loja": "AliExpress",
-    "descricao": "Desconto em Casa & Decoração",
-    "desconto": "≈ R$ 292 (US$ 55)",
-    "codigo": "VSUSAFF55",
-    "categoria": "Casa & Decoração",
-    "fonte": "admitad",
-    "logo": "https://cdn.admitad.com/campaign/images/2025/1/14/6115-e9b6f3723f58304b.svg",
-    "link": "https://rzekl.com/g/ju2hfx7w15831ce0587516525dc3e8/?i=3",
-    "validade": "2026-08-26T20:59:00",
-    "ativo": true,
-    "internacional": true
   }
 ]
