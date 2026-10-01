@@ -141,5 +141,27 @@
     "offerLink": "https://s.shopee.com.br/2BFJY9Al3M",
     "nicho": "Cozinha",
     "timestamp": 1790871902
+  },
+  {
+    "productNameClean": "Panela De Pressão Elétrica 4L 900w Fast Cook Elgin Preta",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-82595-mqyyw71ucrghe2",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 30,
+    "price": "279.99",
+    "sales": 456,
+    "offerLink": "https://s.shopee.com.br/2Vs9ygMwiL",
+    "nicho": "Cozinha",
+    "timestamp": 1790873581
+  },
+  {
+    "productNameClean": "Cooktop 1 Boca de Indução Britânia Painel Touch BCTE10A",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8258q-mts8d5o55jpfc2",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 27,
+    "price": 219.9,
+    "sales": 225,
+    "offerLink": "https://s.shopee.com.br/7KxPXlMz4v",
+    "nicho": "Cozinha",
+    "timestamp": 1790873396
   }
 ]
