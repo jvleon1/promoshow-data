@@ -1,49 +1,5 @@
 [
   {
-    "productNameClean": "Caixa Transporte Pet Grande Pequena Média Cachorros Cães Gatos Coelhos...",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-mqxbe7fgr9c7a0",
-    "ratingStar": "4.7",
-    "priceDiscountRate": 60,
-    "price": "29.99",
-    "sales": 536,
-    "offerLink": "https://s.shopee.com.br/qk6jPlLBJ",
-    "nicho": "Pets",
-    "timestamp": 1791455280
-  },
-  {
-    "productNameClean": "Casinha Plástica Cachorro N7 e N8 Porte Médio Com Colchonete",
-    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8257w-mshaxqhyuozl87",
-    "ratingStar": "4.6",
-    "priceDiscountRate": 24,
-    "price": "139.9",
-    "sales": 945,
-    "offerLink": "https://s.shopee.com.br/7KxaTZ8c7l",
-    "nicho": "Pets",
-    "timestamp": 1791455460
-  },
-  {
-    "productNameClean": "Codorneira Gaiola Codorna Poedeira 15 Aves Divisória Removível Alta Produção...",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l6-mqfip0if2j2ad9",
-    "ratingStar": "4.9",
-    "priceDiscountRate": 20,
-    "price": "151.92",
-    "sales": 112,
-    "offerLink": "https://s.shopee.com.br/AKbC3Hj4ci",
-    "nicho": "Pets",
-    "timestamp": 1791455643
-  },
-  {
-    "productNameClean": "Macaco Pelúcia Pet Grande 42cm Cachorro Brinquedo Resistente Cor Marrom-escuro",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztd-ml3ixd380001b6",
-    "ratingStar": "4.9",
-    "priceDiscountRate": 36,
-    "price": "25.49",
-    "sales": 139,
-    "offerLink": "https://s.shopee.com.br/905oT2aAQr",
-    "nicho": "Pets",
-    "timestamp": 1791455820
-  },
-  {
     "productNameClean": "Janeleira Para Gatos Cama Suspensa De Janela Varanda MDF 15mm...",
     "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-824h4-mpidkd2ksljiee",
     "ratingStar": "4.9",
@@ -2198,5 +2154,49 @@
     "offerLink": "https://s.shopee.com.br/8pmOEsdBpT",
     "nicho": "Pets",
     "timestamp": 1791454200
+  },
+  {
+    "productNameClean": "Mouse Pad de Couro Sintético Grande Bege Claro Feltro Básico",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rceg-lsd8swz826mq4d",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 43,
+    "price": "22.9",
+    "sales": 359,
+    "offerLink": "https://s.shopee.com.br/7KxbWSkQ6g",
+    "nicho": "Tech_e_Gadgets",
+    "timestamp": 1791512160
+  },
+  {
+    "productNameClean": "MIW Fontes Para Animais De Estimação Filtro De Circulação Automática...",
+    "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mfnt484psfta7c",
+    "ratingStar": 4.8,
+    "priceDiscountRate": 58,
+    "price": 39.9,
+    "sales": 2107,
+    "offerLink": "https://s.shopee.com.br/4fwpHqCpaB",
+    "nicho": "Pets",
+    "timestamp": 1791454740
+  },
+  {
+    "productNameClean": "04 Coleira Cães Antipulgas E Carrapatos Dugs 56cm World",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rblz-lqdecwanzb5me0",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 54,
+    "price": 37.18,
+    "sales": 729,
+    "offerLink": "https://s.shopee.com.br/gQgWhDwII",
+    "nicho": "Pets",
+    "timestamp": 1791454920
+  },
+  {
+    "productNameClean": "Shampoo Profissional para Cachorro Neutralizador de Odores 5 Litros Shampoo...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mdandhmc1iblca",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 76,
+    "price": 44.4,
+    "sales": 833,
+    "offerLink": "https://s.shopee.com.br/7VH0fSZsHE",
+    "nicho": "Pets",
+    "timestamp": 1791455100
   }
 ]
