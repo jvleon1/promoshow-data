@@ -911,5 +911,27 @@
     "offerLink": "https://s.shopee.com.br/6L5LFtbo9b",
     "nicho": "Cozinha",
     "timestamp": 1792428901
+  },
+  {
+    "productNameClean": "Ferro à Vapor BLACK+DECKER FX1050 Antiaderente 110V e 220V",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mrg5628s3qbpc9",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 9,
+    "price": "99",
+    "sales": 303,
+    "offerLink": "https://s.shopee.com.br/60SUrtwzeu",
+    "nicho": "Casa",
+    "timestamp": 1792429440
+  },
+  {
+    "productNameClean": "Ventilador de Teto LED 60W 80W Lâmpada E27 Controle Remoto...",
+    "imageUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mkixsca7ixaacf",
+    "ratingStar": 4.8,
+    "priceDiscountRate": 66,
+    "price": 38.9,
+    "sales": 1246,
+    "offerLink": "https://s.shopee.com.br/2LZCUvys6K",
+    "nicho": "Casa",
+    "timestamp": 1792429238
   }
 ]
