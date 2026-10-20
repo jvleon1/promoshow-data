@@ -1,38 +1,5 @@
 [
   {
-    "productNameClean": "20kg areia sanitaria higienica super premium natural argila absorvente...",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mruhghd15m2ta2",
-    "ratingStar": "4.9",
-    "priceDiscountRate": 27,
-    "price": "26.35",
-    "sales": 3200,
-    "offerLink": "https://s.shopee.com.br/9065zBoSQ3",
-    "nicho": "Pets",
-    "timestamp": 1792404780
-  },
-  {
-    "productNameClean": "Bolsa Canguru Transporte De Pet Gato Cão Cachorro Mochila Visão...",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mik5dqesj1tu8c",
-    "ratingStar": "4.8",
-    "priceDiscountRate": 51,
-    "price": "27.96",
-    "sales": 586,
-    "offerLink": "https://s.shopee.com.br/1W053c2tE4",
-    "nicho": "Pets",
-    "timestamp": 1792404960
-  },
-  {
-    "productNameClean": "04 Coleira Cães Antipulgas E Carrapatos Dugs 56cm World",
-    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rblz-lqdecwanzb5me0",
-    "ratingStar": "4.9",
-    "priceDiscountRate": 44,
-    "price": "44.8",
-    "sales": 717,
-    "offerLink": "https://s.shopee.com.br/113oStqws7",
-    "nicho": "Pets",
-    "timestamp": 1792405140
-  },
-  {
     "productNameClean": "kit 2 Roupas Para Gato Pós Cirúrgica Castração com Proteção...",
     "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lmjqjwjwgsvr57",
     "ratingStar": "4.9",
@@ -2198,5 +2165,38 @@
     "offerLink": "https://s.shopee.com.br/8fTFZkoKT7",
     "nicho": "Pets",
     "timestamp": 1792404061
+  },
+  {
+    "productNameClean": "Hoverboard Infantil Skate Elétrico 6.5\" Led Bluetooth Bateria De Grande...",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-825a9-mqqfpsqyxnnn38",
+    "ratingStar": "4.8",
+    "priceDiscountRate": 18,
+    "price": "490.69",
+    "sales": 180,
+    "offerLink": "https://s.shopee.com.br/8KqQG66hdt",
+    "nicho": "Tech_e_Gadgets",
+    "timestamp": 1792462560
+  },
+  {
+    "productNameClean": "Casinha De Cachorro N 4 ou 3 Para Cachorro Pequeno...",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zvq-mmvvas3b8av966",
+    "ratingStar": 4.8,
+    "priceDiscountRate": 29,
+    "price": 49.99,
+    "sales": 627,
+    "offerLink": "https://s.shopee.com.br/7VHIBoaSQ2",
+    "nicho": "Pets",
+    "timestamp": 1792404241
+  },
+  {
+    "productNameClean": "Arranhador Para Gatos Com Casinha Playground",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m5nadx4bfrlxa9",
+    "ratingStar": 4.8,
+    "priceDiscountRate": 44,
+    "price": 139.99,
+    "sales": 803,
+    "offerLink": "https://s.shopee.com.br/2BFlqDgVJe",
+    "nicho": "Pets",
+    "timestamp": 1792404420
   }
 ]
