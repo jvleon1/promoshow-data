@@ -1,27 +1,5 @@
 [
   {
-    "productNameClean": "Casinha De Cachorro N 4 ou 3 Para Cachorro Pequeno...",
-    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zvq-mmvvas3b8av966",
-    "ratingStar": "4.8",
-    "priceDiscountRate": 29,
-    "price": "49.99",
-    "sales": 627,
-    "offerLink": "https://s.shopee.com.br/7VHIBoaSQ2",
-    "nicho": "Pets",
-    "timestamp": 1792404242
-  },
-  {
-    "productNameClean": "Arranhador Para Gatos Com Casinha Playground",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m5nadx4bfrlxa9",
-    "ratingStar": "4.8",
-    "priceDiscountRate": 44,
-    "price": "139.99",
-    "sales": 803,
-    "offerLink": "https://s.shopee.com.br/2BFlqDgVJe",
-    "nicho": "Pets",
-    "timestamp": 1792404421
-  },
-  {
     "productNameClean": "20kg areia sanitaria higienica super premium natural argila absorvente...",
     "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l9-mruhghd15m2ta2",
     "ratingStar": "4.9",
@@ -2198,5 +2176,27 @@
     "offerLink": "https://s.shopee.com.br/7AeSqvJT4V",
     "nicho": "Tech_e_Gadgets",
     "timestamp": 1792461661
+  },
+  {
+    "productNameClean": "MousePad Grande Caramelo Desk Pad Couro Gamer Office",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8261k-mmdczcdp0oaqd5",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 50,
+    "price": "20.9",
+    "sales": 1214,
+    "offerLink": "https://s.shopee.com.br/4qGY4qEMsL",
+    "nicho": "Tech_e_Gadgets",
+    "timestamp": 1792461841
+  },
+  {
+    "productNameClean": "Cama Colchonete Para Cachorro ou Gato Almofada Macio Confortável Caminha...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820lc-mlz9tn9gvls4b8",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 21,
+    "price": 33.9,
+    "sales": 753,
+    "offerLink": "https://s.shopee.com.br/8fTFZkoKT7",
+    "nicho": "Pets",
+    "timestamp": 1792404061
   }
 ]
