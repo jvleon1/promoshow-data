@@ -1,60 +1,5 @@
 [
   {
-    "productNameClean": "Portão Pet Grade Para Cachorro ( 78CM ATÉ 153CM )...",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mlc69yz1j37qc6",
-    "ratingStar": "4.7",
-    "priceDiscountRate": 34,
-    "price": "71.48",
-    "sales": 618,
-    "offerLink": "https://s.shopee.com.br/9V2WC89rQy",
-    "nicho": "Pets",
-    "timestamp": 1792925520
-  },
-  {
-    "productNameClean": "Alicate Crimpar + 1200 Terminais Ilhos+ Descascador 0,25 Ate 10mm2",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mn2nt7kvfh8k33",
-    "ratingStar": "4.9",
-    "priceDiscountRate": 29,
-    "price": "69.98",
-    "sales": 357,
-    "offerLink": "https://s.shopee.com.br/1gJesM1it3",
-    "nicho": "Ferramentas",
-    "timestamp": 1792926061
-  },
-  {
-    "productNameClean": "Kit 4 Disco De Desbaste Madeira para Esmerilhadeira 100mm 4...",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mlyrmr3h7bpj69",
-    "ratingStar": "4.8",
-    "priceDiscountRate": 76,
-    "price": "28.49",
-    "sales": 1369,
-    "offerLink": "https://s.shopee.com.br/AAID0BHS2o",
-    "nicho": "Ferramentas",
-    "timestamp": 1792926241
-  },
-  {
-    "productNameClean": "Multímetro Digital Profissional Tela Lcd Iluminada + Caneta Detectora...",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134201-23010-yvf6gblxezmvcb",
-    "ratingStar": "4.9",
-    "priceDiscountRate": 33,
-    "price": "39.99",
-    "sales": 169,
-    "offerLink": "https://s.shopee.com.br/40hZf3MXvN",
-    "nicho": "Ferramentas",
-    "timestamp": 1792926421
-  },
-  {
-    "productNameClean": "Mochila Esportiva Impermeável Grande Academia Viagem Masculina Compartimento Tênis Organizador",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mrpdqaab6ex033",
-    "ratingStar": "4.9",
-    "priceDiscountRate": 68,
-    "price": "42",
-    "sales": 720,
-    "offerLink": "https://s.shopee.com.br/50a6r64YEM",
-    "nicho": "Ferramentas",
-    "timestamp": 1792926600
-  },
-  {
     "productNameClean": "Pulverizador Portátil Borrifador Manual Alta Pressão 2 Litros",
     "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lg-mr0byclltn9gd9",
     "ratingStar": "4.8",
@@ -2198,5 +2143,60 @@
     "offerLink": "https://s.shopee.com.br/qkXpwBPfd",
     "nicho": "Pets",
     "timestamp": 1792923540
+  },
+  {
+    "productNameClean": "Estabilizador de Celular Portátil Gimbal Facial IA Tripé Dobrável Profissional...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134201-820lk-mqxt1k90rqpz98",
+    "ratingStar": "4.9",
+    "priceDiscountRate": 34,
+    "price": "330.9",
+    "sales": 100,
+    "offerLink": "https://s.shopee.com.br/9pfNZj3Qnv",
+    "nicho": "Tech_e_Gadgets",
+    "timestamp": 1792978800
+  },
+  {
+    "productNameClean": "2/5 PCS Pet Tesoura De Corte De Cabelo, Galvanizado Preto...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfm1na6p74lje4",
+    "ratingStar": 4.8,
+    "priceDiscountRate": 58,
+    "price": 25.85,
+    "sales": 917,
+    "offerLink": "https://s.shopee.com.br/6q1kza8Q1N",
+    "nicho": "Pets",
+    "timestamp": 1792924080
+  },
+  {
+    "productNameClean": "Bolsa de Transporte Pet Canguru para Cachorro Mochila Pet Bolsa...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lu-mqqxy1wtko3kc9",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 68,
+    "price": 25.6,
+    "sales": 328,
+    "offerLink": "https://s.shopee.com.br/2gCC2Kw6w6",
+    "nicho": "Pets",
+    "timestamp": 1792924440
+  },
+  {
+    "productNameClean": "Colchonete Pet Extra Grande 1,20X0,83 Cachorro e Gato Lavável Fundo...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820mb-mswriz7rxipxd1",
+    "ratingStar": 4.8,
+    "priceDiscountRate": 35,
+    "price": 41.99,
+    "sales": 1139,
+    "offerLink": "https://s.shopee.com.br/6VOucCnNsB",
+    "nicho": "Pets",
+    "timestamp": 1792925160
+  },
+  {
+    "productNameClean": "Mochila Pet de Transporte para Cachorro e Gato Astronauta...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m2-mrk36admowee8f",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 39,
+    "price": 72.9,
+    "sales": 811,
+    "offerLink": "https://s.shopee.com.br/1BQsSy4sj",
+    "nicho": "Pets",
+    "timestamp": 1792925340
   }
 ]
