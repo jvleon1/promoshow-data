@@ -1,49 +1,5 @@
 [
   {
-    "productNameClean": "Casinha De Cachorro N 4 ou 3 Para Cachorro Pequeno...",
-    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81zvq-mmvvas3b8av966",
-    "ratingStar": "4.8",
-    "priceDiscountRate": 29,
-    "price": "49.99",
-    "sales": 244,
-    "offerLink": "https://s.shopee.com.br/qkj0n3gsP",
-    "nicho": "Pets",
-    "timestamp": 1793528880
-  },
-  {
-    "productNameClean": "Coleira Petz Para Peitoral Trela Para Cães CãoTurfar Conforto Colete...",
-    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-821fg-mh98aq2vmnm1cd",
-    "ratingStar": "4.9",
-    "priceDiscountRate": 54,
-    "price": "22.9",
-    "sales": 706,
-    "offerLink": "https://s.shopee.com.br/9fM7XEH39a",
-    "nicho": "Pets",
-    "timestamp": 1793529060
-  },
-  {
-    "productNameClean": "Roupa Pós Cirúrgica Protetora Pet Premium Castração Cães e Gatos...",
-    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259j-mr323lg5x43l49",
-    "ratingStar": "4.9",
-    "priceDiscountRate": 59,
-    "price": "20",
-    "sales": 211,
-    "offerLink": "https://s.shopee.com.br/7AemZ2yOeh",
-    "nicho": "Pets",
-    "timestamp": 1793529420
-  },
-  {
-    "productNameClean": "Tapete Higiênico para Caixa de Areia de Gatos Anti Sujeira...",
-    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgwrgg4xhu6c98",
-    "ratingStar": "5",
-    "priceDiscountRate": 14,
-    "price": "37.9",
-    "sales": 1171,
-    "offerLink": "https://s.shopee.com.br/W7sdpFWTD",
-    "nicho": "Pets",
-    "timestamp": 1793530320
-  },
-  {
     "productNameClean": "Kit Tratamento de Água para Aquário de Peixes - Anticloro...",
     "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mti4nwwmp6o20d",
     "ratingStar": "4.9",
@@ -2198,5 +2154,49 @@
     "offerLink": "https://s.shopee.com.br/2BG6a0Kv6o",
     "nicho": "Pets",
     "timestamp": 1793527800
+  },
+  {
+    "productNameClean": "Tela Projetor Datashow 70 Polegadas Portátil Com Cordinha",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m4-mrk4tik7oh6taf",
+    "ratingStar": "4.7",
+    "priceDiscountRate": 57,
+    "price": "47.1",
+    "sales": 485,
+    "offerLink": "https://s.shopee.com.br/5q9Q0sMfY8",
+    "nicho": "Tech_e_Gadgets",
+    "timestamp": 1793585581
+  },
+  {
+    "productNameClean": "Comedouro Gato Cachorro Cães Pet Duplo Madeira 2 Tigelas Alumínio...",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m5-mus2acxv1l354a",
+    "ratingStar": 4.7,
+    "priceDiscountRate": 62,
+    "price": 36,
+    "sales": 718,
+    "offerLink": "https://s.shopee.com.br/4Ve1MUxzCq",
+    "nicho": "Pets",
+    "timestamp": 1793527980
+  },
+  {
+    "productNameClean": "Lâmpada Cerâmica Aquecedor Repteis Aves Aquecimento 110/220v",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztk-mklocre5cxz4e2",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 9,
+    "price": 40.9,
+    "sales": 526,
+    "offerLink": "https://s.shopee.com.br/4LKbAOjoY1",
+    "nicho": "Pets",
+    "timestamp": 1793528160
+  },
+  {
+    "productNameClean": "Brinquedo para Gato Arranhador com Pena e Rampa Poste Sisal",
+    "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhrp620eyj9f23",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 38,
+    "price": 39.89,
+    "sales": 726,
+    "offerLink": "https://s.shopee.com.br/5LD8Mr0buO",
+    "nicho": "Pets",
+    "timestamp": 1793528700
   }
 ]
