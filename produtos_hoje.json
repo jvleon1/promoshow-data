@@ -416,5 +416,27 @@
     "offerLink": "https://s.shopee.com.br/5fqDim9cN1",
     "nicho": "Casa",
     "timestamp": 1794338884
+  },
+  {
+    "productNameClean": "Alcool Novavida 6 litros",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-8259i-mrubhrvr0b9e8b",
+    "ratingStar": "5",
+    "priceDiscountRate": 28,
+    "price": "85.9",
+    "sales": 133,
+    "offerLink": "https://s.shopee.com.br/3qOZZsXv2i",
+    "nicho": "Beleza_e_Estilo",
+    "timestamp": 1794341045
+  },
+  {
+    "productNameClean": "Aspirador de Pó Para Casa Robô Inteligente Com Sensores Anti...",
+    "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwh-lxr9gcah5u3jd7",
+    "ratingStar": 4.9,
+    "priceDiscountRate": 41,
+    "price": 589.99,
+    "sales": 1078,
+    "offerLink": "https://s.shopee.com.br/gRXn4ZPyS",
+    "nicho": "Casa",
+    "timestamp": 1794340180
   }
 ]
