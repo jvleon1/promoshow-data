@@ -1,6 +1,6 @@
 {
   "dia": "2026-11-25",
-  "atualizado": 1795637101,
+  "atualizado": 1795644279,
   "destaques": [
     {
       "productNameClean": "Panela de Pressão Com Indução Brinox Pressure 4,2 L...",
@@ -23,6 +23,17 @@
       "price": 345.9,
       "nicho": "Casa",
       "timestamp": 1795637101
+    },
+    {
+      "productNameClean": "KIT 2 Shampoo de tintura de cabelo 3 em 1...",
+      "priceDiscountRate": 87,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-81ztr-miglmmyp3q4gdd",
+      "offerLink": "https://s.shopee.com.br/5fqbmwRgt6",
+      "ratingStar": 4.5,
+      "sales": 1216,
+      "price": 25.99,
+      "nicho": "Beleza_e_Estilo",
+      "timestamp": 1795644279
     }
   ]
 }
