@@ -1,6 +1,6 @@
 {
   "dia": "2026-11-26",
-  "atualizado": 1795723514,
+  "atualizado": 1795730684,
   "destaques": [
     {
       "productNameClean": "Casa Casinha Plastica De Cachorro Cães N6 Desmontável",
@@ -45,6 +45,17 @@
       "price": 199.99,
       "nicho": "Casa",
       "timestamp": 1795723514
+    },
+    {
+      "productNameClean": "Depilador Feminino Elétrico 5 em 1 Corpo Rosto Aparador Pelos...",
+      "priceDiscountRate": 86,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mtdp1wgjdfr48d",
+      "offerLink": "https://s.shopee.com.br/1gKUctSO1N",
+      "ratingStar": 4.9,
+      "sales": 1789,
+      "price": 67.99,
+      "nicho": "Beleza_e_Estilo",
+      "timestamp": 1795730684
     }
   ]
 }
