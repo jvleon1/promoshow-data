@@ -1,6 +1,6 @@
 {
   "dia": "2026-11-25",
-  "atualizado": 1795644279,
+  "atualizado": 1795658690,
   "destaques": [
     {
       "productNameClean": "Panela de Pressão Com Indução Brinox Pressure 4,2 L...",
@@ -34,6 +34,17 @@
       "price": 25.99,
       "nicho": "Beleza_e_Estilo",
       "timestamp": 1795644279
+    },
+    {
+      "productNameClean": "Celular Smartphone Xiaomi Poco C71 128GB / 64GB Dual Sim...",
+      "priceDiscountRate": 53,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mmqs1m8ud79de8",
+      "offerLink": "https://s.shopee.com.br/6AmsekpYau",
+      "ratingStar": 4.9,
+      "sales": 246,
+      "price": 919.9,
+      "nicho": "Tech_e_Gadgets",
+      "timestamp": 1795658690
     }
   ]
 }
