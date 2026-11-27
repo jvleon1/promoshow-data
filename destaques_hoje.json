@@ -1,6 +1,6 @@
 {
   "dia": "2026-11-27",
-  "atualizado": 1795777493,
+  "atualizado": 1795795523,
   "destaques": [
     {
       "productNameClean": "Gaiola para Pássaros Calopsita Mansa Viveiro com Poleiros Teto Plástico...",
@@ -12,6 +12,17 @@
       "price": 99.9,
       "nicho": "Pets",
       "timestamp": 1795777493
+    },
+    {
+      "productNameClean": "5 em 1 Máquina Solda Inversora Sem Gás...",
+      "priceDiscountRate": 74,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjgu7k614z5u8c",
+      "offerLink": "https://s.shopee.com.br/4LLGkIvowv",
+      "ratingStar": 4.9,
+      "sales": 687,
+      "price": 539.01,
+      "nicho": "Ferramentas",
+      "timestamp": 1795795523
     }
   ]
 }
