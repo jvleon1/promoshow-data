@@ -1,6 +1,6 @@
 {
   "dia": "2026-11-27",
-  "atualizado": 1795799116,
+  "atualizado": 1795809897,
   "destaques": [
     {
       "productNameClean": "Gaiola para Pássaros Calopsita Mansa Viveiro com Poleiros Teto Plástico...",
@@ -34,6 +34,17 @@
       "price": 314.99,
       "nicho": "Cozinha",
       "timestamp": 1795799116
+    },
+    {
+      "productNameClean": "kIT 2 Cadeira Lua Decorativa Poltrona Lua Sala de Estar...",
+      "priceDiscountRate": 69,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdyojtby720x29",
+      "offerLink": "https://s.shopee.com.br/1LhfaL0sZX",
+      "ratingStar": 4.8,
+      "sales": 782,
+      "price": 185.99,
+      "nicho": "Casa",
+      "timestamp": 1795809897
     }
   ]
 }
