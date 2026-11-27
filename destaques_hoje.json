@@ -1,6 +1,6 @@
 {
   "dia": "2026-11-26",
-  "atualizado": 1795730684,
+  "atualizado": 1795745083,
   "destaques": [
     {
       "productNameClean": "Casa Casinha Plastica De Cachorro Cães N6 Desmontável",
@@ -56,6 +56,17 @@
       "price": 67.99,
       "nicho": "Beleza_e_Estilo",
       "timestamp": 1795730684
+    },
+    {
+      "productNameClean": "K12 Caixa de som sem fio com microfone Karaokê, Mini...",
+      "priceDiscountRate": 72,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7rff1-m96a3707agyh54",
+      "offerLink": "https://s.shopee.com.br/2qWSGhA9mH",
+      "ratingStar": 4.8,
+      "sales": 8961,
+      "price": 28.48,
+      "nicho": "Tech_e_Gadgets",
+      "timestamp": 1795745083
     }
   ]
 }
