@@ -1,6 +1,6 @@
 {
   "dia": "2026-11-27",
-  "atualizado": 1795795523,
+  "atualizado": 1795799116,
   "destaques": [
     {
       "productNameClean": "Gaiola para Pássaros Calopsita Mansa Viveiro com Poleiros Teto Plástico...",
@@ -23,6 +23,17 @@
       "price": 539.01,
       "nicho": "Ferramentas",
       "timestamp": 1795795523
+    },
+    {
+      "productNameClean": "Air Fryer Fritadeira Elétrica Sem Óleo Cesto de Vidro Vira...",
+      "priceDiscountRate": 65,
+      "imageUrl": "https://cf.shopee.com.br/file/sg-11134201-7repj-m2h1cvrin3xf3d",
+      "offerLink": "https://s.shopee.com.br/Lp8IjPlPh",
+      "ratingStar": 5,
+      "sales": 873,
+      "price": 314.99,
+      "nicho": "Cozinha",
+      "timestamp": 1795799116
     }
   ]
 }
