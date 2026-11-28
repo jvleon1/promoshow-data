@@ -1,6 +1,6 @@
 {
   "dia": "2026-11-28",
-  "atualizado": 1795881908,
+  "atualizado": 1795885501,
   "destaques": [
     {
       "productNameClean": "Cercadinho Pet Multiuso – para Cães, Gatos, Coelhos e Filhotes...",
@@ -23,6 +23,17 @@
       "price": 205.99,
       "nicho": "Ferramentas",
       "timestamp": 1795881908
+    },
+    {
+      "productNameClean": "Liquidificador Portátil Blender Elgin Daily Blend 350w 750ml 2 Copos...",
+      "priceDiscountRate": 71,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-msa71dbnloue12",
+      "offerLink": "https://s.shopee.com.br/8fUHoWZmN6",
+      "ratingStar": 4.9,
+      "sales": 1061,
+      "price": 144.99,
+      "nicho": "Cozinha",
+      "timestamp": 1795885501
     }
   ]
 }
