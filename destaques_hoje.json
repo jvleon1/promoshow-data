@@ -1,6 +1,6 @@
 {
   "dia": "2026-11-27",
-  "atualizado": 1795817089,
+  "atualizado": 1795831486,
   "destaques": [
     {
       "productNameClean": "Gaiola para Pássaros Calopsita Mansa Viveiro com Poleiros Teto Plástico...",
@@ -56,6 +56,17 @@
       "price": 92.99,
       "nicho": "Beleza_e_Estilo",
       "timestamp": 1795817089
+    },
+    {
+      "productNameClean": "Smartwatch MINI 38MM PRO Com monitor De Frequência Cardíaca Do...",
+      "priceDiscountRate": 74,
+      "imageUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg4sqr0e5nggcd",
+      "offerLink": "https://s.shopee.com.br/8AY0AVDijo",
+      "ratingStar": 4.8,
+      "sales": 1529,
+      "price": 52.99,
+      "nicho": "Tech_e_Gadgets",
+      "timestamp": 1795831486
     }
   ]
 }
